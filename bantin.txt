@@ -1,31 +1,31 @@
-BẢN TIN VÀNG tối 16/11 – RỦI RO 4/5 – NÊN TẮT BOT từ 23:00 tối nay 16/11 đến 08:00 sáng 17/11
+BẢN TIN VÀNG sáng 17/11 – RỦI RO 4/5 – NÊN TẮT BOT từ 19:00 tối 17/11 đến 08:00 sáng 18/11 (ban ngày cân nhắc giảm lot)
 
-Biên độ hôm qua (thứ Sáu 13/11): ~1,2% (~48$, 3867–3915) → ngày tới nguy hiểm ~7%, 3 ngày tới ~18%. Nhưng thứ Năm 12/11 biên độ ~3,8% (~148$, 4000→3852) nên cửa sổ 3 ngày vẫn thuộc nhóm sau ngày ≥2%: ~39%.
+Biên độ hôm qua (thứ Hai 16/11): ~1,3–1,5% (~50–55$, khoảng 3.830–3.885; đỉnh ngày là ước tính) → ngày tới nguy hiểm ~7%, 3 ngày tới ~18%. Nhưng thứ Năm 12/11 biên độ ~3,8% vẫn nằm trong cửa sổ 3 ngày, và vàng đang chạy một chiều nhiều ngày nên coi rủi ro cao hơn bảng.
 
 Giá vàng & diễn biến:
-Hiện ~3.874$ (sáng nay có lúc xuống ~3.845–3.852$, đáy 13 tháng). Tuần trước mất ~4,5%, từ ~4.148$ đầu tuần xuống ~3.852$ = chạy một chiều ~300$ trong 4 ngày. Lực bán do kỳ vọng Fed TĂNG lãi suất, USD đỉnh chu kỳ, lợi suất cao. Hỗ trợ kế tiếp 3.815–3.835 rồi 3.780–3.800; kháng cự 3.920–3.930.
+Hiện ~3.850$ (đầu phiên Á 17/11). Đêm qua chạm 3.830$, thấp nhất từ 10/2025; vàng giao ngay đóng cửa Mỹ ~3.848$ (-0,8%). Từ ~4.148$ đầu tuần trước đã giảm ~300–320$ trong 5 phiên. Hỗ trợ kế tiếp 3.800 rồi 3.780; kháng cự 3.880–3.920. Thủng 3.800 dễ trượt một mạch 60$+.
 
 Sự kiện 72 giờ tới (giờ VN):
-- Tối nay 21:03: Williams (Fed) phát biểu ⚠️ bot không né
-- 00:00 đêm nay (rạng sáng 17/11): Chủ tịch Fed Warsh phát biểu – bot tự né (Fed Chair), nhưng xu hướng có thể chạy tiếp sau khi mở khóa
-- 02:15 sáng 17/11: Hammack (Fed) phát biểu ⚠️ bot không né
-- 20:30 tối 17/11: Retail Sales tháng 10 – bot tự né
-- 17–19/11: APEC Thâm Quyến; Trump có thể gặp Tập và Putin, bàn cả chấm dứt chiến sự Iran (chưa chốt ngày) ⚠️ bot không né
-- 02:00 sáng 19/11: Biên bản họp FOMC ⚠️ có thể bot không nhận là tin mạnh, nên kiểm tra
-- 20:30 tối 19/11: Đơn trợ cấp thất nghiệp
+- Trong ngày 17/11: Williams (Fed) phát biểu, giờ chưa rõ ⚠️ bot không né
+- 20:30 tối 17/11: Retail Sales tháng 10 (+ Sản xuất công nghiệp 21:15) – bot tự né Retail Sales; rủi ro là xu hướng chạy tiếp sau khi mở khóa
+- Rạng sáng 18/11: Nvidia báo cáo lợi nhuận (theo một lịch là sau giờ đóng cửa 17/11, cần kiểm tra) ⚠️ bot không né – có thể làm chao đảo USD/chứng khoán
+- 02:00 sáng 19/11: Biên bản họp FOMC ⚠️ kiểm tra bot có nhận là tin mạnh không
+- Trong tuần: Hammack, Barr, Kashkari, Goolsbee, Barkin (Fed) phát biểu ⚠️ bot không né
+- 17–19/11: APEC Thâm Quyến, khả năng gặp Trump–Tập–Putin bàn cả lối thoát cho chiến sự Iran (chưa chốt) ⚠️ bot không né
+- 20/11: Tâm lý người tiêu dùng UMich (chốt)
 
 Điểm nóng địa chính trị:
-Iran leo thang: IRGC tuyên bố 6 tàu bị trúng mìn/cháy ở Hormuz từ Chủ nhật (chưa kiểm chứng độc lập), UKMTO xác nhận 1 tàu trúng vật thể lạ hôm nay; IRGC bắn 6 drone vào radar Mỹ ở Bahrain (bị chặn). Tàu sân bay thứ 3 của Mỹ đã vào khu vực, Mỹ rút bớt nhân viên ngoại giao. Đàm phán bế tắc, hai bên đều cảnh báo đánh lại → nguy cơ một cú tăng vọt bất ngờ ngược chiều xu hướng giảm.
+Iran–Hormuz tiếp tục nóng: hải quân Iran tuyên bố tàu dầu thứ 4 trúng mìn và cháy (rạng sáng 17/11), trước đó UKMTO xác nhận 1 tàu trúng vật thể lạ ngày 16/11. Mỹ có 3 tàu sân bay và hơn 20 tàu chiến phong tỏa cảng Iran; Iran đe dọa các nước vùng Vịnh. Đàm phán bế tắc, chưa có hạn chót mới → nguy cơ một cú bật tăng đột ngột (ngược xu hướng giảm) nếu có tấn công lớn, hoặc tin ngừng bắn bất ngờ nếu APEC có đột phá.
 
-Thị trường: lợi suất 10 năm ~5,14% (đỉnh tuần 5,17%), 30 năm chưa có dữ liệu; DXY ~103,2 và USD ở đỉnh chu kỳ; dầu Brent ~96,6$; thị trường định giá ~92–94% Fed tăng 25bp ngày 09/12.
+Thị trường: USD ở mạnh nhất từ 04/2025, DXY chưa có số mới (tối qua ~103,2); lợi suất 10 năm trên 5% (tuần trước đỉnh ~5,17%), 30 năm chưa có dữ liệu; dầu Brent ~96$ (số hôm qua); CME FedWatch: 94% tăng 25bp và 6% tăng 50bp ngày 09/12. Phát biểu của Warsh tối qua chủ yếu về AI (AI có thể làm thị trường thất vọng), chưa thấy tín hiệu lãi suất mới.
 
 Lý do chấm điểm:
-Đang ở "chế độ thị trường loạn": vàng giảm một mạch ~300$ trong tuần, vừa phá đáy 13 tháng, năm 2026 biên độ bất thường. Đêm nay có chuỗi phát biểu Fed diều hâu ngay sát vùng hỗ trợ – nếu thủng 3.850 dễ trượt thêm 60–80$ một mạch. Cùng lúc Iran–Hormuz nóng lên có thể gây cú bật mạnh ngược chiều. Tắt bot qua đêm nay rồi xem lại ở bản tin 6:45 sáng mai.
+Vẫn ở "chế độ thị trường loạn": giảm một mạch ~300$ trong 5 phiên, phá đáy 13 tháng, chỉ cách mốc 3.800 khoảng 30–50$. Tối nay có Retail Sales + Nvidia + chuỗi phát biểu Fed diều hâu, đúng lúc phe bán nhắm 3.800. Đồng thời Iran–Hormuz leo thang có thể gây cú đảo chiều mạnh. Phiên Á ban ngày thường hiền hơn nhưng nên giảm lot; tắt bot từ 19:00 tối nay, xem lại ở bản tin 18:45.
 
 Nguồn:
-https://home.saxo/en-ch/content/articles/macro/market-quick-take---fed-chair-warsh-to-speak-today---16-november-2026-16112026
-https://www.brecorder.com/news/40449130/gold-edges-higher-as-investors-await-warsh-remarks-for-rate-signals
-https://tradingeconomics.com/commodity/gold
-https://financefeeds.com/gold-price-today-3879-saturday-week-ahead-fomc-minutes-retail-sales-bull-4000-bear-3800/
-https://www.thenationalnews.com/news/gulf/2026/11/16/iran-escalates-threats-against-us-forces-and-gulf-states-as-third-american-carrier-arrives/
-https://www.riotimesonline.com/apec-shenzhen-summit-what-to-watch/
+https://www.koreatimes.co.kr/amp/world/20261117/gold-drops-to-more-than-one-year-low-as-us-dollar-marches-higher
+https://www.fxstreet.com/news/gold-falls-to-one-year-low-near-3-850-on-strong-us-dollar-rising-fed-hike-bets-202611162327
+https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071&entryId=138171210
+https://www.aninews.in/news/world/middle-east/fourth-oil-tanker-catches-fire-in-hormuz-after-hitting-naval-mine-says-iranian-navy20261117040103/
+https://thriveinmarkets.com/calendar/2026-11-16/
+https://www.scmp.com/news/china/diplomacy/article/3373831/can-xi-jinping-and-vladimir-putin-give-donald-trump-iran-exit-he-needs
