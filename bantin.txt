@@ -1,28 +1,33 @@
-BẢN TIN VÀNG tối 17/11 – RỦI RO 4/5 – NÊN TẮT BOT từ 19:00 tối 17/11 đến 08:00 sáng 18/11
+BẢN TIN VÀNG sáng 18/11 – RỦI RO 3/5 – CÂN NHẮC GIẢM LOT (và nên TẮT BOT từ 00:30 đến 03:30 sáng 19/11 nếu bot không nhận Biên bản FOMC là tin FOMC)
 
-Biên độ hôm qua (thứ Hai 16/11): ~1,4% (~55$, khoảng 3.830–3.885) → ngày tới nguy hiểm ~7%, 3 ngày tới ~18%. Còn ngày 12/11 biên độ ~3,8% trong cửa sổ 3 ngày và nhịp giảm nhiều ngày nên rủi ro thực cao hơn bảng.
+Biên độ hôm qua (thứ Ba 17/11): 1,4% (~56$, 3.836–3.892) → ngày tới nguy hiểm ~7%, 3 ngày tới ~18%. Nhịp giảm nhiều ngày vẫn chưa dứt nên rủi ro thực nhỉnh hơn bảng.
 
 Giá vàng & diễn biến:
-Hiện ~3.860–3.875$. Hôm nay hồi nhẹ từ đáy 13 tháng 3.832$, lên gần 3.890$ rồi lùi; biên độ hôm nay ~45$ (~1,2%). Từ đỉnh 4.148$ tuần trước vẫn giảm ~280$ trong 6 phiên. Hỗ trợ 3.830 rồi 3.800–3.780; kháng cự 3.890–3.930. Thủng 3.830 dễ trượt một mạch 50–60$.
+Hiện ~3.850$ (Kitco 06:14 sáng VN). Hôm qua lên 3.892 rồi bị bán về, không thủng đáy 13 tháng 3.832 của thứ Hai. Từ đỉnh 4.148 tuần trước đã giảm ~300$ trong 7 phiên. Hỗ trợ 3.832 rồi 3.815–3.800; kháng cự 3.880–3.900. Thủng 3.830 dễ trượt một mạch 50–60$.
 
 Sự kiện 72 giờ tới (giờ VN):
-- 20:30 tối nay 17/11: Retail Sales tháng 10 (dự báo +0,2%) – bot tự né; rủi ro là chạy tiếp một chiều sau khi mở khóa
-- Tối/đêm nay: Waller, Hammack, Williams (Fed) phát biểu, giờ chưa rõ ⚠️ bot không né
-- Khoảng 04:20 sáng 18/11: Nvidia báo cáo lợi nhuận (giờ ước tính) ⚠️ bot không né – Nasdaq vừa giảm 2,5%, sốc có thể kéo vàng theo
-- 02:00 sáng 19/11: Biên bản họp FOMC ⚠️ kiểm tra bot có nhận là tin FOMC không; nếu không thì cân nhắc tắt bot từ 23:00 tối 18/11
-- 17–19/11: APEC, khả năng Trump–Tập–Putin bàn lối thoát cho chiến sự Iran (chưa chốt) ⚠️ bot không né
+- Đã qua: Retail Sales +0,2% (bot né); Nvidia báo cáo vượt dự báo, cổ phiếu tăng ~2–3% sau giờ, chưa gây sốc.
+- 18–19/11: Thượng đỉnh APEC, có thể có tuyên bố về Iran/thương mại ⚠️ bot không né
+- 18/11, giờ chưa rõ: Williams (Fed NY) phát biểu ⚠️ bot không né
+- 01:35 sáng 19/11: Barr (Fed) phát biểu ⚠️ bot không né
+- 02:00 sáng 19/11: Biên bản họp FOMC ⚠️ kiểm tra bot có nhận là tin FOMC không; nếu không thì tắt tay 00:30–03:30
+- 20:30 tối 19/11: Đơn trợ cấp thất nghiệp tuần ⚠️ bot không né (thường nhẹ)
+- 21:25 tối 19/11: Phó Chủ tịch Fed Jefferson; trong ngày còn Hammack, Goolsbee, Paulson ⚠️ bot không né
+- 20:25 tối 20/11: Waller; 00:15 sáng 21/11: Cook ⚠️ bot không né
+- Sáng 21/11 (04:57): đóng phiên cuối tuần – bot tự né
 
 Điểm nóng địa chính trị:
-Hormuz leo thang thêm: IRGC nói 2 tàu dầu trúng mìn bốc cháy, hải quân Iran nói thêm 1 tàu bị mìn làm tê liệt; UKMTO xác nhận 2 tàu bị tấn công (cháy buồng máy gần Khasab, Oman). IRGC tuyên bố bắt giữ drone Mỹ MQM-170 gần đảo Qeshm sáng 17/11. Mỹ đã có 3 tàu sân bay trong khu vực, phong tỏa cảng Iran; đàm phán vẫn bế tắc, không có hạn chót mới. Có nguy cơ cú bật tăng đột ngột ngược xu hướng nếu có tấn công lớn.
+Hormuz vẫn nóng: thêm tàu dầu trúng mìn/đạn (Iran nói 4 vụ trong 24 giờ), IRGC tấn công radar Mỹ ở căn cứ Sheikh Isa (Bahrain) lần thứ 3 từ thứ Sáu, có tin Mỹ không kích đảo Qeshm. Mỹ có 3 tàu sân bay trong khu vực. Iran nói có thể mở lại eo biển trong 2 ngày nếu Mỹ nhận 7 điều kiện, Mỹ bác. Đàm phán qua Pakistan/Qatar/Thổ Nhĩ Kỳ vẫn bế tắc, chưa có hạn chót mới. Một thỏa thuận bất ngờ hoặc tấn công lớn đều có thể làm vàng chạy mạnh.
 
-Thị trường: DXY ~103,4–103,6 (gần mạnh nhất từ 04/2025); lợi suất 10 năm ~5,12–5,13%; 30 năm chưa có dữ liệu; Brent ~92$; thị trường định giá ~90% Fed tăng lãi tháng 12.
+Thị trường: DXY ~103,4–103,5 (gần cao nhất 19 tháng); lợi suất 10 năm trên 5%, hôm qua hạ nhẹ; 30 năm chưa có dữ liệu; dầu giằng co, chưa bứt phá; thị trường định giá ~93% Fed tăng 25 điểm ngày 09/12.
 
 Lý do chấm điểm:
-Vẫn là "chế độ thị trường loạn": giảm ~280$ nhiều phiên, phá đáy 13 tháng, giá chỉ cách đáy 3.832 khoảng 30–40$. Đêm nay dồn dập Retail Sales + 3 quan chức Fed + Nvidia trong khi bot chỉ né được Retail Sales. Hormuz leo thang có thể gây cú đảo chiều mạnh. Tắt bot đêm nay, xem lại bản tin 06:45 sáng 18/11.
+Hạ từ 4 xuống 3 vì hai rủi ro đêm qua (Nvidia, Retail Sales) đã qua êm, giá đi ngang 3.836–3.892. Nhưng vẫn là nhịp giảm nhiều ngày sát đáy 13 tháng, Hormuz leo thang từng ngày, và đêm nay có Biên bản FOMC. Ban ngày giờ VN chạy được, nên giảm lot; xem lại bản tin 18:45 tối nay.
 
 Nguồn:
-https://www.mitrade.com/insights/commodity-analysis/gold/gold-pressured-dollar-tech-selloff-hormuz
-https://in.investing.com/news/commodities-news/gold-hovers-near-14month-low-as-fed-hike-bets-and-tech-selloff-weigh-5708509
-https://traderfactor.com/us-retail-sales-and-nvidia-earnings-in-focus/
-https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field
-https://www.aa.com.tr/en/middle-east/iran-s-revolutionary-guard-says-it-seized-us-drone-near-strait-of-hormuz/4127176
+https://www.kitco.com/charts/gold
+https://tradingeconomics.com/commodity/gold
+https://www.federalreserve.gov/newsevents/2026-November.htm
+https://www.newsquawk.com/headlines/newsquawk-weekly-economic-release-16th---20th-november-2026
+https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/
+https://thedarksideoftheboom.substack.com/p/asia-open-nvidia-delivers-the-numbers
