@@ -1,33 +1,39 @@
-BẢN TIN VÀNG sáng 18/11 – RỦI RO 3/5 – CÂN NHẮC GIẢM LOT (và nên TẮT BOT từ 00:30 đến 03:30 sáng 19/11 nếu bot không nhận Biên bản FOMC là tin FOMC)
+BẢN TIN VÀNG tối 18/11 (24h tới, đến 18:45 19/11) – RỦI RO 4/5 – NÊN TẮT BOT 00:30 19/11 → 03:30 19/11, ngoài khung đó giảm lot
 
-Biên độ hôm qua (thứ Ba 17/11): 1,4% (~56$, 3.836–3.892) → ngày tới nguy hiểm ~7%, 3 ngày tới ~18%. Nhịp giảm nhiều ngày vẫn chưa dứt nên rủi ro thực nhỉnh hơn bảng.
+Biên độ hôm nay 18/11 (chưa đóng): ~2,2% (~85$) → 24h tới nguy hiểm ~12%. Nhịp giảm nhiều ngày = thị trường loạn.
 
-Giá vàng & diễn biến:
-Hiện ~3.850$ (Kitco 06:14 sáng VN). Hôm qua lên 3.892 rồi bị bán về, không thủng đáy 13 tháng 3.832 của thứ Hai. Từ đỉnh 4.148 tuần trước đã giảm ~300$ trong 7 phiên. Hỗ trợ 3.832 rồi 3.815–3.800; kháng cự 3.880–3.900. Thủng 3.830 dễ trượt một mạch 50–60$.
+Giá vàng & xu hướng:
+~3.775$ (17:07 18/11), đáy ngày ~3.765, thấp nhất từ 09/2025. Hôm nay rơi một mạch ~85$ từ ~3.850, thủng đáy 3.832 và mốc 3.800. Từ đỉnh 4.148 đã mất ~380$ trong 8 phiên. H4, D1 giảm mạnh.
 
-Sự kiện 72 giờ tới (giờ VN):
-- Đã qua: Retail Sales +0,2% (bot né); Nvidia báo cáo vượt dự báo, cổ phiếu tăng ~2–3% sau giờ, chưa gây sốc.
-- 18–19/11: Thượng đỉnh APEC, có thể có tuyên bố về Iran/thương mại ⚠️ bot không né
-- 18/11, giờ chưa rõ: Williams (Fed NY) phát biểu ⚠️ bot không né
-- 01:35 sáng 19/11: Barr (Fed) phát biểu ⚠️ bot không né
-- 02:00 sáng 19/11: Biên bản họp FOMC ⚠️ kiểm tra bot có nhận là tin FOMC không; nếu không thì tắt tay 00:30–03:30
-- 20:30 tối 19/11: Đơn trợ cấp thất nghiệp tuần ⚠️ bot không né (thường nhẹ)
-- 21:25 tối 19/11: Phó Chủ tịch Fed Jefferson; trong ngày còn Hammack, Goolsbee, Paulson ⚠️ bot không né
-- 20:25 tối 20/11: Waller; 00:15 sáng 21/11: Cook ⚠️ bot không né
-- Sáng 21/11 (04:57): đóng phiên cuối tuần – bot tự né
+CẢN & HỖ TRỢ
+Kháng cự 2: 3.836 (+61$) – đáy cũ thành cản; vượt → 3.870–3.900, rổ SELL có thể xuống tầng 7+
+Kháng cự 1: 3.800 (+25$) – mốc tròn vừa mất
+Giá hiện tại: ~3.775
+Hỗ trợ 1: 3.766 (−9$) – đáy ngày; thủng → 3.708 (~58$ một mạch), rổ BUY có thể xuống tầng 9–10, sát cháy
+Hỗ trợ 2: 3.670–3.680 (−100$); xa hơn 3.628, 3.600
+Kịch bản nguy hiểm nhất: Biên bản FOMC 02:00 19/11 diều hâu → thủng 3.766 → về 3.708 không hồi. Hoặc tin thỏa thuận Iran–Mỹ bất ngờ → bật +60$ đánh rổ SELL.
 
-Điểm nóng địa chính trị:
-Hormuz vẫn nóng: thêm tàu dầu trúng mìn/đạn (Iran nói 4 vụ trong 24 giờ), IRGC tấn công radar Mỹ ở căn cứ Sheikh Isa (Bahrain) lần thứ 3 từ thứ Sáu, có tin Mỹ không kích đảo Qeshm. Mỹ có 3 tàu sân bay trong khu vực. Iran nói có thể mở lại eo biển trong 2 ngày nếu Mỹ nhận 7 điều kiện, Mỹ bác. Đàm phán qua Pakistan/Qatar/Thổ Nhĩ Kỳ vẫn bế tắc, chưa có hạn chót mới. Một thỏa thuận bất ngờ hoặc tấn công lớn đều có thể làm vàng chạy mạnh.
+LỊCH 24H TỚI
+18/11, giờ chưa rõ – Williams (Fed NY) – ⚠️ bot không né
+18–19/11 – Thượng đỉnh APEC – ⚠️ bot không né
+02:00 19/11 – Biên bản FOMC – ⚠️ nếu bot không nhận là tin FOMC thì tắt tay 00:30–03:30
+07:30 19/11 – Việc làm Úc – nhẹ
+19/11, giờ chưa rõ – Hammack, Goolsbee, Paulson (Fed) – ⚠️ bot không né
+Xa hơn: 20:30 19/11 trợ cấp thất nghiệp Mỹ; 20/11 Waller, Cook (bot không né); 04:57 21/11 đóng phiên cuối tuần – bot tự né.
 
-Thị trường: DXY ~103,4–103,5 (gần cao nhất 19 tháng); lợi suất 10 năm trên 5%, hôm qua hạ nhẹ; 30 năm chưa có dữ liệu; dầu giằng co, chưa bứt phá; thị trường định giá ~93% Fed tăng 25 điểm ngày 09/12.
+Địa chính trị (24h qua):
+Iran bắn drone vào căn cứ Mỹ ở Kuwait, tấn công Bahrain nhiều lần; Houthi bắn tên lửa về Riyadh. Tàu dầu ADNOC trúng đòn ở Hormuz; Iran nói 1 siêu tàu dầu chìm do mìn. Mỹ không kích đảo Qeshm, điều tàu sân bay thứ 3. Chưa có lịch đàm phán hay hạn chót. Vàng vẫn giảm dù chiến sự leo thang: động lực chính là lãi suất Fed.
+
+Thị trường: DXY ~103,6 (gần đỉnh 19 tháng); lợi suất 10 năm trên 5%; 30 năm và dầu chưa có dữ liệu mới; thị trường định giá Fed tăng 25 điểm tháng 12 và tháng 1.
 
 Lý do chấm điểm:
-Hạ từ 4 xuống 3 vì hai rủi ro đêm qua (Nvidia, Retail Sales) đã qua êm, giá đi ngang 3.836–3.892. Nhưng vẫn là nhịp giảm nhiều ngày sát đáy 13 tháng, Hormuz leo thang từng ngày, và đêm nay có Biên bản FOMC. Ban ngày giờ VN chạy được, nên giảm lot; xem lại bản tin 18:45 tối nay.
+Nâng từ 3 lên 4: hôm nay đã là ngày nguy hiểm (rơi ~85$, thủng đáy 14 tháng); sau ngày ≥2% biên độ TB ~2,15% (~80$). Giá cách đáy ngày ~9$, dưới là khoảng trống ~58$ đúng ngưỡng chịu của bot, và Biên bản FOMC 02:00 có thể là cú hích. Ban ngày 19/11 chạy lại được nhưng giảm lot.
 
 Nguồn:
-https://www.kitco.com/charts/gold
-https://tradingeconomics.com/commodity/gold
-https://www.federalreserve.gov/newsevents/2026-November.htm
+https://www.fxempire.com/forecasts/article/gold-news-strong-dollar-and-hawkish-fed-outlook-drive-fresh-selling-1645378
+https://www.mitrade.com/au/insights/commodity-analysis/gold-price/gold-price-breaks-below-3800
+https://finance.yahoo.com/markets/commodities/articles/gold-falls-toward-3-800-014150756.html
+https://www.wsls.com/news/world/2026/11/18/iran-widens-gulf-attacks-firing-on-a-us-air-base-in-kuwait-and-at-targets-in-bahrain/
 https://www.newsquawk.com/headlines/newsquawk-weekly-economic-release-16th---20th-november-2026
-https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/
-https://thedarksideoftheboom.substack.com/p/asia-open-nvidia-delivers-the-numbers
+
+Chỉ đánh giá rủi ro cho bot lưới, không phải khuyến nghị mua/bán.
