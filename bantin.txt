@@ -1,41 +1,40 @@
-BẢN TIN VÀNG sáng 20/11 (24h tới, đến 06:45 21/11) – RỦI RO 5/5 – NÊN TẮT BOT CẢ 24H TỚI (đến 06:45 21/11)
+BẢN TIN VÀNG tối 20/11 (24h tới, đến 18:45 21/11) – RỦI RO 5/5 – NÊN TẮT BOT CẢ 24H TỚI (đến 18:45 21/11)
 
-Biên độ hôm qua: 3,8% (~139$) → 24h tới nguy hiểm ~26% – THỊ TRƯỜNG LOẠN: đủ cả 4 điều kiện: (1) ngày 19/11 biên độ ≥3%; (2) 18/11 (3,5%) và 19/11 (3,8%) đều ≥2,5%; (3) từ ~4.148 (10/11) mất ~525$, đáy 14 tháng; (4) phiên Mỹ 19/11 rơi ~110$ một mạch.
+Biên độ hôm qua: 3,8% (~139$) → 24h tới nguy hiểm ~26% – THỊ TRƯỜNG LOẠN: đủ cả 4 điều kiện: (1) 19/11 biên độ ≥3%; (2) 18/11, 19/11 và hôm nay 20/11 đều ≥2,5%; (3) từ ~4.148 (10/11) mất ~600$, đáy 14 tháng; (4) phiên Á 20/11 rơi ~110$ một mạch.
 
 Giá vàng & xu hướng:
-19/11: cao 3.759, thấp 3.620. Sau trợ cấp thất nghiệp 20:30 (203 nghìn, cao hơn dự báo) vàng thủng 3.700 rồi 3.650, khoảng 04:30 20/11 về 3.620–3.630 (rơi ~19$ trong 10 phút sau khi thủng 3.650). Sáng 20/11 mở cửa hồi nhẹ (+0,3%). Giá trực tiếp sáng nay chưa có dữ liệu. H4, D1 giảm mạnh, chưa có tín hiệu tạo đáy.
+Phiên Á 20/11 thủng 3.600 rồi 3.550, đáy ~3.514 (thấp nhất từ 09/2025). Biên độ 20/11 tới giờ 3.514–3.652 (~138$). 17:37 20/11 hồi về 3.589. Tuần này −9%. H4, D1 giảm mạnh; H1 quá bán, dễ giật 2 chiều.
 
 CẢN & HỖ TRỢ
-Kháng cự 3: 3.759 (+135$) – đỉnh 19/11
-Kháng cự 2: 3.694–3.700 (+70 đến +75$) – đáy cũ 19/11, mốc tròn; hồi lên đây một mạch là rổ SELL vượt sức chịu 58$
-Kháng cự 1: 3.650 (+25$) – mốc vừa thủng; vượt → 3.700, rổ SELL tầng 9–10
-Giá hiện tại: ~3.625 (Kitco 18:32 ET 19/11: 3.621)
-Hỗ trợ 1: 3.600–3.620 (−5 đến −25$) – đáy 19/11 + số tròn; thủng → 3.560 (~60$ một mạch), rổ BUY tới tầng 10
-Hỗ trợ 2: 3.560 (−65$) – đáy vùng đi ngang CPM Group nêu; thủng → 3.500
-Hỗ trợ 3: 3.500 (−125$) – mục tiêu giảm thêm 5% (Razaqzada, Kitco)
-Kịch bản nguy hiểm nhất cho bot: thủng 3.600 trong phiên Á/Âu 20/11 hoặc sau Waller 20:25 → về 3.560–3.500 không hồi. Ngược lại, giá sát đáy dễ có cú hồi kỹ thuật 60–75$ về 3.700 đánh rổ SELL.
+Kháng cự 2: 3.694–3.700 (+105 đến +110$) – đáy cũ 19/11, mốc tròn; hồi về đây là rổ SELL vượt xa sức chịu 58$
+Kháng cự 1: 3.625–3.652 (+35 đến +63$) – đỉnh phiên 20/11; vượt → 3.700, rổ SELL tầng 10
+Giá hiện tại: ~3.589 (Kitco 17:37 20/11)
+Hỗ trợ 1: 3.570–3.590 (0 đến −20$) – thủng → 3.514–3.520 (~70$ một mạch), rổ BUY vượt tầng 10
+Hỗ trợ 2: 3.500–3.520 (−70 đến −90$) – đáy 20/11 + số tròn; thủng → 3.450–3.475
+Hỗ trợ 3: 3.450–3.475 (−115 đến −140$)
+Kịch bản nguy hiểm nhất: thủng 3.570 sau Waller 20:25 hoặc Michigan 22:00 → về 3.500 rồi 3.450 không hồi. Ngược lại, cú hồi chốt lời cuối tuần về 3.650–3.700 sẽ đánh rổ SELL.
 
 LỊCH 24H TỚI
-08:00 20/11 – Lãi suất LPR Trung Quốc – ⚠️ bot không né
-20:25 20/11 – Thống đốc Fed Waller (người từng đề xuất tăng 50 điểm) – ⚠️ bot không né
-00:15 21/11 – Thống đốc Fed Cook (phe muốn tăng lãi suất) – ⚠️ bot không né
+20:25 20/11 – Thống đốc Fed Waller phát biểu (người đã gợi ý tăng 50 điểm) – ⚠️ bot không né
+22:00 20/11 – Tâm lý tiêu dùng Michigan – ⚠️ bot không né
+00:15 21/11 – Thống đốc Fed Cook phát biểu tại Chile – ⚠️ bot không né
 04:57 21/11 – Đóng phiên cuối tuần – bot tự né
-Xa hơn: 20:30 25/11 PCE + GDP quý 3 – bot tự né; 02:00 26/11 Beige Book – bot không né; 09/12 họp Fed.
+Xa hơn: sáng 23/11 mở cửa tuần mới (dễ gap nếu cuối tuần có tin Iran); 02:00 26/11 Beige Book – bot không né; 09/12 họp Fed.
 
 Địa chính trị (24h qua):
-Hormuz vẫn bị Iran đóng, tàu chở dầu tiếp tục bị tấn công; Houthi nhận tấn công 4 điểm ở Ả Rập Xê Út. Có thượng đỉnh Putin–Tập–Trump tại APEC Thâm Quyến ra "Tuyên bố Hòa bình"; bên trung gian nói thỏa thuận mới với Iran "trong tầm tay" – nếu công bố bất ngờ có thể tạo cú giật mạnh. Vàng hiện không hưởng lợi từ chiến sự, USD và lãi suất chi phối.
+Hormuz gần như tê liệt, tàu ADNOC bị tấn công; tin Trump cân nhắc đánh thêm Iran, Thượng viện Mỹ bác nghị quyết hạn chế chiến tranh. Thượng đỉnh Trump–Tập–Putin không đột phá. Vàng không được trú ẩn, USD và lãi suất chi phối.
 
-Thị trường: FedWatch ~97% tăng 25 điểm ngày 09/12, ~3% tăng 50 điểm. Biên bản FOMC 18/11 diều hâu. DXY, lợi suất 10 năm/30 năm, dầu: chưa có dữ liệu mới.
+Thị trường: FedWatch ~90–97% tăng 25 điểm 09/12. DXY ~104, cao nhất 19 tháng. Lợi suất 10 năm ~5,0%, 30 năm chưa có dữ liệu. Brent ~92$. Chứng khoán Mỹ bán tháo, kéo vàng bị bán lấy tiền mặt. Trung Quốc giữ LPR; cầu vàng Thượng Hải chưa có dữ liệu.
 
 Lý do chấm điểm:
-Đủ cả 4 điều kiện thị trường loạn, tra bảng ~26%. Hai ngày liên tiếp có cú rơi 110–125$ một mạch, giá đang ngay trên mốc 3.600, bên dưới trống tới 3.560–3.500. Tối nay có Waller và Cook, đều phe diều hâu.
-Chạy lại khi: có 1 ngày biên độ <1,5% và giá đi ngang giữ trên 3.600 (hoặc đóng cửa ngày lại trên 3.700). Sớm nhất nên xem lại đầu tuần sau.
+Ba ngày liên tiếp biên độ ~3,5–3,8%, mỗi ngày đều có cú chạy 110$+ một mạch; giá đang sát hỗ trợ 3.570, dưới trống tới 3.500. Tối nay còn Waller, Michigan, Cook.
+Chạy lại khi: có 1 ngày biên độ <1,5% và giá đi ngang giữ trên 3.500 (hoặc đóng cửa ngày trên 3.700). Không bật lại trong phiên còn lại tuần này; xem lại ở bản tin 06:45 23/11 trước khi mở cửa tuần mới.
 
 Nguồn:
-https://www.kitco.com/news/article/2026-11-19/gold-price-approaches-3700oz-after-us-weekly-jobless-claims-rise-203k
-https://tass.com/economy/2222107
-https://www.xauusdglobal.com/gold-price-history/2026/11/
+https://www.kitco.com/charts/gold
+https://www.mitrade.com/insights/commodity-analysis/gold/gold-slides-below-3600-fed-pressure
+https://ednews.net/en/gold-sinks-to-14-month-low-near-3500-as-fed-rate-hike-bets-intensify/
+https://tradingeconomics.com/commodity/gold
 https://www.federalreserve.gov/newsevents/2026-November.htm
-https://admiralmarkets.com/education/articles/fundamental-analysys/lisa-cook-speech-preview-november-20-2026
 
 Chỉ đánh giá rủi ro cho bot lưới, không phải khuyến nghị mua/bán.
