@@ -1,37 +1,38 @@
-BẢN TIN VÀNG tối 21/11 (24h tới, đến 18:45 22/11) – RỦI RO 4/5 – NÊN TẮT BOT CẢ 24H TỚI (đến 18:45 22/11), giữ tắt qua giờ mở cửa ~06:00 23/11
+BẢN TIN VÀNG sáng 22/11 (24h tới, đến 06:45 23/11) – RỦI RO 4/5 – NÊN TẮT BOT CẢ 24H TỚI (đến 06:45 23/11), KHÔNG bật lại lúc mở cửa ~06:00 23/11
 
-Biên độ hôm qua: 3,8% (~138$) → ngày giao dịch kế tiếp nguy hiểm ~26% – THỊ TRƯỜNG LOẠN: (1) 20/11 biên độ ≥3%; (2) 18, 19, 20/11 đều ≥2,5%; (3) mất ~600$ từ ~4.148 (10/11), đáy 14 tháng; (4) phiên Á 20/11 rơi ~110$ một mạch.
+Biên độ hôm qua (phiên 20/11): 3,8% (~138$) → phiên kế tiếp nguy hiểm ~26% – THỊ TRƯỜNG LOẠN: (1) 20/11 biên độ ≥3%; (2) 18, 19, 20/11 đều ≥2,5%; (3) mất ~600$ từ ~4.148 (10/11), đáy hơn 1 năm; (4) phiên Á 20/11 rơi ~110$ một mạch.
 
 Giá vàng & xu hướng:
-Thị trường đóng cửa cuối tuần từ ~04:57 21/11, bot đã tự khóa/ngừng. Phiên 20/11 dao động 3.514–3.652, đóng cửa ~3.525–3.535, sát đáy ngày. Tuần giảm 8–9%, tệ nhất từ tháng 3. H4, D1 giảm mạnh, quá bán sâu.
+Thị trường đóng cửa cuối tuần, bot đã tự khóa/ngừng từ ~04:57 21/11. Phiên 20/11 dao động 3.514–3.652, đóng ~3.530 (−2,15% ngày), tuần giảm ~8%, tệ nhất từ tháng 3. USD gần đỉnh từ 4/2025, lợi suất thực 10 năm ~2,9%. H4, D1 giảm mạnh, quá bán.
 
-24H TỚI KHÔNG CÓ GIAO DỊCH. Rủi ro chính là GAP lúc mở cửa ~06:00 23/11 nếu cuối tuần có tin Iran/Mỹ.
+Trong 24h tới chỉ có giao dịch từ ~06:00 23/11 (45 phút cuối). Rủi ro chính: GAP mở cửa sau một cuối tuần Iran leo thang.
 
-CẢN & HỖ TRỢ (theo giá đóng cửa 20/11)
-Kháng cự 2: 3.678–3.700 (+150$) – đỉnh/đáy cũ 19/11, mốc tròn
+CẢN & HỖ TRỢ (theo giá đóng 20/11)
+Kháng cự 2: 3.700–3.714 (+170 đến +185$) – mốc tròn, R1 pivot; phá lên → 3.800
 Kháng cự 1: 3.640–3.652 (+115$) – đỉnh 20/11; gap/hồi lên đây đánh rổ SELL vượt xa 58$
-Giá hiện tại: ~3.530 (đóng cửa 20/11)
+Giá hiện tại: ~3.530 (đóng 20/11)
 Hỗ trợ 1: 3.500–3.514 (−20 đến −30$) – đáy 20/11 + số tròn; thủng → 3.450 (~60$ một mạch), rổ BUY tới tầng 10
-Hỗ trợ 2: 3.450 (−80$) – thủng → 3.400 (~130$), cháy tài khoản
-Kịch bản nguy hiểm nhất cho bot: mở cửa 23/11 gap lên mạnh nếu tàu Iran va chạm hải quân Mỹ/Mỹ–Israel tấn công cuối tuần, hoặc gap xuống thủng 3.500 do bán tháo tiếp; sau đó PMI 21:45 23/11.
+Hỗ trợ 2: 3.450 (−80$) – thủng → 3.300–3.320 (FXEmpire: mục tiêu nếu mất 3.500, MA dài hạn ~3.322), cháy tài khoản
+Kịch bản nguy hiểm nhất cho bot: mở cửa 23/11 gap lên mạnh nếu đoàn tàu dầu Iran từ Kharg đụng độ hải quân Mỹ hoặc Mỹ–Israel tấn công Iran; hoặc gap xuống thủng 3.500 nếu USD tiếp tục mạnh.
 
 LỊCH 24H TỚI
-Không có sự kiện kinh tế, thị trường đóng cửa.
-Xa hơn: ~06:00 23/11 mở cửa tuần mới (dễ gap) – ⚠️ bot không né; 21:45 23/11 PMI sơ bộ Mỹ – ⚠️ bot không né; 20:15 24/11 ADP, 22:00 24/11 niềm tin tiêu dùng – ⚠️ bot không né; 20:30 25/11 PCE lõi + GDP – bot tự né; 02:00 26/11 Beige Book – ⚠️ bot không né.
+~06:00 23/11 – mở cửa tuần mới, dễ gap – ⚠️ bot không né
+Xa hơn: 21:45 23/11 PMI sơ bộ Mỹ – ⚠️ bot không né; 20:15 24/11 ADP, 22:00 24/11 niềm tin tiêu dùng – ⚠️ bot không né; 20:30 25/11 PCE + GDP – bot tự né; 02:00 26/11 Beige Book – ⚠️ bot không né.
 
 Địa chính trị (24h qua):
-CBS: Mỹ và Israel cân nhắc tấn công Iran lần mới, Israel muốn đánh chung, Trump chưa cho thấy sẽ duyệt. Iran nói chuẩn bị 14 tàu dầu phá vòng phong tỏa của Mỹ, dọa đánh cơ sở dầu vùng Vịnh nếu tàu bị tấn công. Sáng 21/11 (giờ VN chiều) UKMTO báo 2 tàu dầu trúng vật thể lạ gần Khasab (Oman). Houthi bắn 3 tên lửa về Riyadh, bị chặn. Hormuz lưu thông thấp hơn ~65% so với trước chiến tranh. Bessent: Iran có thể không bao giờ nhận được tiền dầu đã bán. Iran vẫn giữ đề nghị "2 ngày", từ chối chuyển uranium ra nước ngoài. Chưa có hạn chót hay thông báo hẹn giờ.
+Thứ Bảy 21/11 ít nhất 3 tàu dầu bị tấn công trong/gần Hormuz (UKMTO: 2 tàu trúng vật thể gần Khasab; Iran nói 1 tàu trúng mìn, cháy), Iran gọi là đợt "dữ dội nhất". Tối 21/11 Bahrain báo động phòng không, chặn tên lửa/UAV Iran, 1 cơ sở công nghiệp cháy. Iran thề "làm mọi cách" phá phong tỏa, hơn 14 tàu dầu ở Kharg có thể đi thành đoàn ra vịnh Oman. Iran ra mắt bệ phóng tên lửa mới. Đàm phán qua Qatar bế tắc; Trump: Iran muốn thỏa thuận nhưng điều kiện "không chấp nhận được", chưa vội quyết định. Chưa có hạn chót hay thông báo hẹn giờ. Brent đóng 92,6$.
 
-Thị trường (đóng cửa 20/11): FedWatch ~97–99% tăng 25 điểm 09/12. DXY gần đỉnh 19 tháng. Lợi suất 10 năm ~4,94–5,05%, 30 năm chưa có dữ liệu. Brent ~91,7$. Trung Quốc: chưa có dữ liệu mới.
+Thị trường: FedWatch ~97–99% tăng 25 điểm 09/12 (theo tuần trước). Lợi suất 30 năm, Trung Quốc: chưa có dữ liệu mới.
 
 Lý do chấm điểm:
-Cuối tuần không giao dịch, nhưng thị trường vẫn LOẠN (3 ngày ≥3,5%, đóng sát đáy, quá bán) và nguy cơ đụng độ tàu dầu–hải quân Mỹ cuối tuần làm tăng rủi ro gap mở cửa → giữ 4/5.
-Chạy lại khi: có 1 ngày biên độ <1,5% và giá đi ngang giữ trên 3.500 (hoặc đóng cửa ngày trên 3.700). Không bật bot trước giờ mở cửa 23/11; xem lại bản tin 18:45 22/11.
+Thị trường vẫn LOẠN (3 ngày biên độ ≥3,5%, đóng sát đáy) và cuối tuần Iran leo thang (tấn công tàu, Bahrain, nguy cơ đụng độ đoàn tàu) → gap mở cửa 23/11 có thể vượt 58$. Giữ 4/5.
+Chạy lại khi: có 1 ngày biên độ <1,5% và giá đi ngang giữ trên 3.500 (hoặc đóng ngày trên 3.700). Xem lại bản tin 18:45 22/11 và 06:45 23/11.
 
 Nguồn:
-https://www.iranintl.com/en/liveblog/202611214578
-https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/
-https://www.usagold.com/daily-precious-metals-market-report-november-20-2026/
-https://journalarta.com/en/2026/11/20/gold-price-today-bullion-drops-3-71-to-3530-75-in-broad-metals-and-equity-selloff/
+https://www.fxempire.com/forecasts/article/gold-weekly-forecast-3500-at-risk-as-real-yields-stay-high-1646189
+https://krmg.com/2026/11/21/iran-strikes-3-tankers-as-it-shows-off-missile-launchers-and-other-mideast-news/
+https://gulfnews.com/uae/middle-east-war-trump-says-iran-wants-deal-but-terms-are-unacceptable-1.500755788
+https://abcnews.com/International/strait-hormuz-attacks-increased-highest-level-iran-war/story?id=138304456
+https://straits.live/briefs/2026-11-21
 
 Chỉ đánh giá rủi ro cho bot lưới, không phải khuyến nghị mua/bán.
