@@ -1,38 +1,37 @@
-BẢN TIN VÀNG sáng 21/11 (24h tới, đến 06:45 22/11) – RỦI RO 4/5 – NÊN TẮT BOT CẢ 24H TỚI (đến 06:45 22/11), giữ tắt qua giờ mở cửa tuần mới
+BẢN TIN VÀNG tối 21/11 (24h tới, đến 18:45 22/11) – RỦI RO 4/5 – NÊN TẮT BOT CẢ 24H TỚI (đến 18:45 22/11), giữ tắt qua giờ mở cửa ~06:00 23/11
 
 Biên độ hôm qua: 3,8% (~138$) → ngày giao dịch kế tiếp nguy hiểm ~26% – THỊ TRƯỜNG LOẠN: (1) 20/11 biên độ ≥3%; (2) 18, 19, 20/11 đều ≥2,5%; (3) mất ~600$ từ ~4.148 (10/11), đáy 14 tháng; (4) phiên Á 20/11 rơi ~110$ một mạch.
 
 Giá vàng & xu hướng:
-Thị trường đã đóng cửa cuối tuần lúc ~04:57 21/11, bot đã tự khóa/ngừng. Phiên 20/11 dao động 3.514–3.652, đóng cửa quanh 3.525–3.535 (−3,7%), sát đáy ngày. Tuần −8 đến −9%, tệ nhất từ tháng 3. H4, D1 giảm mạnh; RSI quá bán sâu, dễ giật 2 chiều khi mở cửa.
+Thị trường đóng cửa cuối tuần từ ~04:57 21/11, bot đã tự khóa/ngừng. Phiên 20/11 dao động 3.514–3.652, đóng cửa ~3.525–3.535, sát đáy ngày. Tuần giảm 8–9%, tệ nhất từ tháng 3. H4, D1 giảm mạnh, quá bán sâu.
 
-24H TỚI KHÔNG CÓ GIAO DỊCH (thứ Bảy–Chủ nhật). Rủi ro chính là GAP lúc mở cửa ~06:00 23/11 nếu cuối tuần có tin Iran/Mỹ.
+24H TỚI KHÔNG CÓ GIAO DỊCH. Rủi ro chính là GAP lúc mở cửa ~06:00 23/11 nếu cuối tuần có tin Iran/Mỹ.
 
-CẢN & HỖ TRỢ
+CẢN & HỖ TRỢ (theo giá đóng cửa 20/11)
 Kháng cự 2: 3.678–3.700 (+150$) – đỉnh/đáy cũ 19/11, mốc tròn
-Kháng cự 1: 3.640–3.652 (+115$) – đỉnh phiên 20/11; cú hồi gap lên đây đánh rổ SELL vượt xa 58$
+Kháng cự 1: 3.640–3.652 (+115$) – đỉnh 20/11; gap/hồi lên đây đánh rổ SELL vượt xa 58$
 Giá hiện tại: ~3.530 (đóng cửa 20/11)
 Hỗ trợ 1: 3.500–3.514 (−20 đến −30$) – đáy 20/11 + số tròn; thủng → 3.450 (~60$ một mạch), rổ BUY tới tầng 10
-Hỗ trợ 2: 3.450 (−80$) – thủng → 3.400 (~130$ từ giá hiện tại), cháy tài khoản
-Kịch bản nguy hiểm nhất cho bot: mở cửa 23/11 gap xuống thủng 3.500 (bán tháo tiếp do cược Fed tăng lãi) hoặc gap lên mạnh nếu Mỹ đánh Iran cuối tuần; sau đó PMI 21:45 23/11.
+Hỗ trợ 2: 3.450 (−80$) – thủng → 3.400 (~130$), cháy tài khoản
+Kịch bản nguy hiểm nhất cho bot: mở cửa 23/11 gap lên mạnh nếu tàu Iran va chạm hải quân Mỹ/Mỹ–Israel tấn công cuối tuần, hoặc gap xuống thủng 3.500 do bán tháo tiếp; sau đó PMI 21:45 23/11.
 
 LỊCH 24H TỚI
 Không có sự kiện kinh tế, thị trường đóng cửa.
 Xa hơn: ~06:00 23/11 mở cửa tuần mới (dễ gap) – ⚠️ bot không né; 21:45 23/11 PMI sơ bộ Mỹ – ⚠️ bot không né; 20:15 24/11 ADP, 22:00 24/11 niềm tin tiêu dùng – ⚠️ bot không né; 20:30 25/11 PCE lõi + GDP – bot tự né; 02:00 26/11 Beige Book – ⚠️ bot không né.
 
 Địa chính trị (24h qua):
-Hormuz vẫn đóng (ngày 264), Iran nói 2 tàu dầu trúng thủy lôi, bắn rơi drone MQ-9 của Mỹ; CENTCOM dọa bắt giữ tàu né phong tỏa. Báo Mỹ cho biết khả năng Mỹ tấn công mới tăng, Israel thúc chiến dịch 4–7 ngày, Trump nói "không vội". Houthi dọa đánh cảng Saudi. Chưa thấy hạn chót hay thông báo hẹn giờ cuối tuần này.
+CBS: Mỹ và Israel cân nhắc tấn công Iran lần mới, Israel muốn đánh chung, Trump chưa cho thấy sẽ duyệt. Iran nói chuẩn bị 14 tàu dầu phá vòng phong tỏa của Mỹ, dọa đánh cơ sở dầu vùng Vịnh nếu tàu bị tấn công. Sáng 21/11 (giờ VN chiều) UKMTO báo 2 tàu dầu trúng vật thể lạ gần Khasab (Oman). Houthi bắn 3 tên lửa về Riyadh, bị chặn. Hormuz lưu thông thấp hơn ~65% so với trước chiến tranh. Bessent: Iran có thể không bao giờ nhận được tiền dầu đã bán. Iran vẫn giữ đề nghị "2 ngày", từ chối chuyển uranium ra nước ngoài. Chưa có hạn chót hay thông báo hẹn giờ.
 
-Thị trường: FedWatch ~97–99% tăng 25 điểm 09/12. DXY gần đỉnh 19 tháng. Lợi suất 10 năm ~4,94–5,05%, 30 năm chưa có dữ liệu. Brent ~91,7$. Có bán tháo để bù ký quỹ; mua vật chất Ấn Độ, Trung Quốc tăng nhưng chưa đủ đỡ giá.
+Thị trường (đóng cửa 20/11): FedWatch ~97–99% tăng 25 điểm 09/12. DXY gần đỉnh 19 tháng. Lợi suất 10 năm ~4,94–5,05%, 30 năm chưa có dữ liệu. Brent ~91,7$. Trung Quốc: chưa có dữ liệu mới.
 
 Lý do chấm điểm:
-24h tới không có giao dịch nên rủi ro thực tế thấp, nhưng thị trường vẫn LOẠN (3 ngày ≥3,5%, đóng cửa sát đáy, quá bán) cộng rủi ro tin chiến sự cuối tuần gây gap → giữ 4/5, không bật bot trước giờ mở cửa.
-Chạy lại khi: có 1 ngày biên độ <1,5% và giá đi ngang giữ trên 3.500 (hoặc đóng cửa ngày trên 3.700). Xem lại ở bản tin 18:45 22/11 trước giờ mở cửa.
+Cuối tuần không giao dịch, nhưng thị trường vẫn LOẠN (3 ngày ≥3,5%, đóng sát đáy, quá bán) và nguy cơ đụng độ tàu dầu–hải quân Mỹ cuối tuần làm tăng rủi ro gap mở cửa → giữ 4/5.
+Chạy lại khi: có 1 ngày biên độ <1,5% và giá đi ngang giữ trên 3.500 (hoặc đóng cửa ngày trên 3.700). Không bật bot trước giờ mở cửa 23/11; xem lại bản tin 18:45 22/11.
 
 Nguồn:
+https://www.iranintl.com/en/liveblog/202611214578
+https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/
 https://www.usagold.com/daily-precious-metals-market-report-november-20-2026/
-https://ancstockinvestments.com/blog/2026/11/20/gold-price-this-week-worst-drop-since-march/
 https://journalarta.com/en/2026/11/20/gold-price-today-bullion-drops-3-71-to-3530-75-in-broad-metals-and-equity-selloff/
-https://straits.live/
-https://www.jpost.com/middle-east/iran-news/article-915531
 
 Chỉ đánh giá rủi ro cho bot lưới, không phải khuyến nghị mua/bán.
