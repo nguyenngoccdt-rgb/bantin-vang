@@ -1,38 +1,38 @@
-BẢN TIN VÀNG sáng 22/11 (24h tới, đến 06:45 23/11) – RỦI RO 4/5 – NÊN TẮT BOT CẢ 24H TỚI (đến 06:45 23/11), KHÔNG bật lại lúc mở cửa ~06:00 23/11
+BẢN TIN VÀNG tối 22/11 (24h tới, đến 18:45 23/11) – RỦI RO 4/5 – NÊN TẮT BOT CẢ 24H TỚI (đến 18:45 23/11), KHÔNG để bot tự chạy lại lúc mở cửa ~06:00 23/11
 
-Biên độ hôm qua (phiên 20/11): 3,8% (~138$) → phiên kế tiếp nguy hiểm ~26% – THỊ TRƯỜNG LOẠN: (1) 20/11 biên độ ≥3%; (2) 18, 19, 20/11 đều ≥2,5%; (3) mất ~600$ từ ~4.148 (10/11), đáy hơn 1 năm; (4) phiên Á 20/11 rơi ~110$ một mạch.
+Biên độ hôm qua (phiên 20/11): 3,8% (~138$) → 24h tới nguy hiểm ~26% – THỊ TRƯỜNG LOẠN: (1) 20/11 biên độ ≥3%; (2) 18, 19, 20/11 đều ≥2,5%; (3) mất ~600$ từ ~4.148 (10/11), đáy 14 tháng.
 
 Giá vàng & xu hướng:
-Thị trường đóng cửa cuối tuần, bot đã tự khóa/ngừng từ ~04:57 21/11. Phiên 20/11 dao động 3.514–3.652, đóng ~3.530 (−2,15% ngày), tuần giảm ~8%, tệ nhất từ tháng 3. USD gần đỉnh từ 4/2025, lợi suất thực 10 năm ~2,9%. H4, D1 giảm mạnh, quá bán.
-
-Trong 24h tới chỉ có giao dịch từ ~06:00 23/11 (45 phút cuối). Rủi ro chính: GAP mở cửa sau một cuối tuần Iran leo thang.
+Thị trường đóng cửa cuối tuần, giá đứng ở ~3.530 (đóng 20/11, dao động 3.514–3.652). Tháng 11 giảm ~8%, tuần tệ nhất từ tháng 3. RSI ngày dưới 30, giá dưới dải Bollinger dưới: quá bán nhưng H4, D1 vẫn giảm. DXY sát 104, tăng 4 tuần liền.
 
 CẢN & HỖ TRỢ (theo giá đóng 20/11)
-Kháng cự 2: 3.700–3.714 (+170 đến +185$) – mốc tròn, R1 pivot; phá lên → 3.800
-Kháng cự 1: 3.640–3.652 (+115$) – đỉnh 20/11; gap/hồi lên đây đánh rổ SELL vượt xa 58$
-Giá hiện tại: ~3.530 (đóng 20/11)
-Hỗ trợ 1: 3.500–3.514 (−20 đến −30$) – đáy 20/11 + số tròn; thủng → 3.450 (~60$ một mạch), rổ BUY tới tầng 10
-Hỗ trợ 2: 3.450 (−80$) – thủng → 3.300–3.320 (FXEmpire: mục tiêu nếu mất 3.500, MA dài hạn ~3.322), cháy tài khoản
-Kịch bản nguy hiểm nhất cho bot: mở cửa 23/11 gap lên mạnh nếu đoàn tàu dầu Iran từ Kharg đụng độ hải quân Mỹ hoặc Mỹ–Israel tấn công Iran; hoặc gap xuống thủng 3.500 nếu USD tiếp tục mạnh.
+Kháng cự 2: 3.700 (+170$) – số tròn; phá lên → 3.800 (FXStreet), rổ SELL cháy
+Kháng cự 1: 3.640–3.652 (+115$) – đỉnh 20/11; gap/hồi lên đây là rổ SELL vượt xa 58$
+Giá hiện tại: ~3.530
+Hỗ trợ 1: 3.500–3.514 (−20 đến −30$) – đáy 14 tháng + số tròn; thủng → 3.450 (~60$ một mạch), rổ BUY tới tầng 10
+Hỗ trợ 2: 3.450 (−80$) – thủng → 3.270–3.320 (FXStreet: hỗ trợ 3.270; MA dài hạn ~3.322), thêm ~130–180$, cháy tài khoản
+Kịch bản nguy hiểm nhất cho bot: mở cửa ~06:00 23/11 gap mạnh. Gap LÊN nếu đoàn tàu dầu ở Kharg phá phong tỏa đụng hải quân Mỹ hoặc Mỹ–Israel tấn công Iran; gap XUỐNG thủng 3.500 nếu USD tiếp tục mạnh và lực bán tháo quay lại phiên Á.
 
 LỊCH 24H TỚI
 ~06:00 23/11 – mở cửa tuần mới, dễ gap – ⚠️ bot không né
-Xa hơn: 21:45 23/11 PMI sơ bộ Mỹ – ⚠️ bot không né; 20:15 24/11 ADP, 22:00 24/11 niềm tin tiêu dùng – ⚠️ bot không né; 20:30 25/11 PCE + GDP – bot tự né; 02:00 26/11 Beige Book – ⚠️ bot không né.
+06:00–14:00 23/11 – phiên Á sát đáy 3.500 (19, 20/11 đều rơi mạnh phiên này) – ⚠️ bot không né
+~15:15–16:30 23/11 – PMI sơ bộ Pháp, Đức, Eurozone, Anh – ⚠️ bot không né (thường nhẹ)
+Xa hơn: 21:45 23/11 PMI sơ bộ Mỹ, trong ngày 23/11 Williams (Fed NY) phát biểu – ⚠️ bot không né; 22:00 24/11 niềm tin tiêu dùng – ⚠️ bot không né; 25/11 PCE + GDP lần 2 + đơn hàng bền – bot tự né; 26/11 Lễ Tạ ơn Mỹ nghỉ, 27/11 đóng sớm (thanh khoản mỏng).
 
 Địa chính trị (24h qua):
-Thứ Bảy 21/11 ít nhất 3 tàu dầu bị tấn công trong/gần Hormuz (UKMTO: 2 tàu trúng vật thể gần Khasab; Iran nói 1 tàu trúng mìn, cháy), Iran gọi là đợt "dữ dội nhất". Tối 21/11 Bahrain báo động phòng không, chặn tên lửa/UAV Iran, 1 cơ sở công nghiệp cháy. Iran thề "làm mọi cách" phá phong tỏa, hơn 14 tàu dầu ở Kharg có thể đi thành đoàn ra vịnh Oman. Iran ra mắt bệ phóng tên lửa mới. Đàm phán qua Qatar bế tắc; Trump: Iran muốn thỏa thuận nhưng điều kiện "không chấp nhận được", chưa vội quyết định. Chưa có hạn chót hay thông báo hẹn giờ. Brent đóng 92,6$.
+Thứ Bảy 21/11 Iran tấn công tàu dầu ở Hormuz (UKMTO: 1 tàu trúng vật thể lạ, 1 tàu trúng phòng máy); Bahrain nói Iran đánh cơ sở công nghiệp, IRGC nhận bắn căn cứ Mỹ Al-Riffa, Awali. Iran nói bắn rơi UAV Mỹ trên đảo Qeshm. Hơn 14 tàu dầu tụ ở Kharg; tin "tàu Iran vượt Hormuz" ngày 22/11 bị xác định là tín hiệu giả. Đàm phán qua Qatar bế tắc, Iran nói bàn mở Hormuz là "vô ích" nếu chưa đáp ứng yêu cầu. Trump: "không vội quyết định" về Iran, chờ sau năm mới; CBS: Mỹ–Israel cân nhắc đòn mới ngắn hạn. Chưa có hạn chót hẹn giờ.
 
-Thị trường: FedWatch ~97–99% tăng 25 điểm 09/12 (theo tuần trước). Lợi suất 30 năm, Trung Quốc: chưa có dữ liệu mới.
+Thị trường: FedWatch gần như chắc tăng 25 điểm 09/12, ~65% tăng tiếp tháng 1. Lợi suất 10/30 năm, Trung Quốc: chưa có dữ liệu mới.
 
 Lý do chấm điểm:
-Thị trường vẫn LOẠN (3 ngày biên độ ≥3,5%, đóng sát đáy) và cuối tuần Iran leo thang (tấn công tàu, Bahrain, nguy cơ đụng độ đoàn tàu) → gap mở cửa 23/11 có thể vượt 58$. Giữ 4/5.
-Chạy lại khi: có 1 ngày biên độ <1,5% và giá đi ngang giữ trên 3.500 (hoặc đóng ngày trên 3.700). Xem lại bản tin 18:45 22/11 và 06:45 23/11.
+Vẫn LOẠN (3 ngày biên độ ≥2,5%, đóng sát đáy 14 tháng), cuối tuần Iran leo thang nên gap mở cửa và phiên Á 23/11 có thể chạy >58$ bất kỳ hướng nào. Giữ 4/5.
+Chạy lại khi: có 1 ngày biên độ <1,5% và giá đi ngang giữ trên 3.500 (hoặc đóng ngày trên 3.700). Xem lại bản tin 06:45 23/11.
 
 Nguồn:
-https://www.fxempire.com/forecasts/article/gold-weekly-forecast-3500-at-risk-as-real-yields-stay-high-1646189
-https://krmg.com/2026/11/21/iran-strikes-3-tankers-as-it-shows-off-missile-launchers-and-other-mideast-news/
-https://gulfnews.com/uae/middle-east-war-trump-says-iran-wants-deal-but-terms-are-unacceptable-1.500755788
-https://abcnews.com/International/strait-hormuz-attacks-increased-highest-level-iran-war/story?id=138304456
-https://straits.live/briefs/2026-11-21
+https://www.fxstreet.com/analysis/gold-weekly-forecast-hawkish-fed-rhetoric-possible-deleveraging-weigh-heavily-on-precious-metal-202611201430
+https://www.fxstreet.com/analysis/forecasting-the-upcoming-week-its-pmi-week-along-with-more-us-inflation-202611201835
+https://www.manilatimes.net/2026/11/22/world/bahrain-says-iran-struck-industrial-site-as-tankers-hit-in-hormuz/2475616
+https://www.euronews.com/2026/11/22/tracking-site-says-iranian-tanker-reportedly-sailing-through-strait-of-hormuz-does-not-exi
+https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/
 
 Chỉ đánh giá rủi ro cho bot lưới, không phải khuyến nghị mua/bán.
