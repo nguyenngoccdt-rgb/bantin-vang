@@ -3,7 +3,7 @@ BẢN TIN VÀNG tối 22/11 (24h tới, đến 18:45 23/11) – RỦI RO 4/5 –
 Biên độ hôm qua (phiên 20/11): 3,8% (~138$) → 24h tới nguy hiểm ~26% – THỊ TRƯỜNG LOẠN: (1) 20/11 biên độ ≥3%; (2) 18, 19, 20/11 đều ≥2,5%; (3) mất ~600$ từ ~4.148 (10/11), đáy 14 tháng.
 
 Giá vàng & xu hướng:
-Thị trường đóng cửa cuối tuần, giá đứng ở ~3.530 (đóng 20/11, dao động 3.514–3.652). Tháng 11 giảm ~8%, tuần tệ nhất từ tháng 3. RSI ngày dưới 30, giá dưới dải Bollinger dưới: quá bán nhưng H4, D1 vẫn giảm. DXY sát 104, tăng 4 tuần liền.
+Thị trường đóng cửa cuối tuần, giá đứng ở ~3.530 (đóng 20/11, dao động 3.514–3.652). Tháng 11 giảm ~8%, tuần tệ nhất từ tháng 3. Quá bán (RSI ngày <30) nhưng H4, D1 vẫn giảm. DXY sát 104, tăng 4 tuần liền.
 
 CẢN & HỖ TRỢ (theo giá đóng 20/11)
 Kháng cự 2: 3.700 (+170$) – số tròn; phá lên → 3.800 (FXStreet), rổ SELL cháy
@@ -11,16 +11,16 @@ Kháng cự 1: 3.640–3.652 (+115$) – đỉnh 20/11; gap/hồi lên đây là
 Giá hiện tại: ~3.530
 Hỗ trợ 1: 3.500–3.514 (−20 đến −30$) – đáy 14 tháng + số tròn; thủng → 3.450 (~60$ một mạch), rổ BUY tới tầng 10
 Hỗ trợ 2: 3.450 (−80$) – thủng → 3.270–3.320 (FXStreet: hỗ trợ 3.270; MA dài hạn ~3.322), thêm ~130–180$, cháy tài khoản
-Kịch bản nguy hiểm nhất cho bot: mở cửa ~06:00 23/11 gap mạnh. Gap LÊN nếu đoàn tàu dầu ở Kharg phá phong tỏa đụng hải quân Mỹ hoặc Mỹ–Israel tấn công Iran; gap XUỐNG thủng 3.500 nếu USD tiếp tục mạnh và lực bán tháo quay lại phiên Á.
+Kịch bản nguy hiểm nhất cho bot: gap mạnh lúc mở cửa ~06:00 23/11 – LÊN nếu tàu dầu Kharg đụng hải quân Mỹ hoặc Mỹ–Israel đánh Iran; XUỐNG thủng 3.500 nếu bán tháo quay lại phiên Á.
 
 LỊCH 24H TỚI
 ~06:00 23/11 – mở cửa tuần mới, dễ gap – ⚠️ bot không né
 06:00–14:00 23/11 – phiên Á sát đáy 3.500 (19, 20/11 đều rơi mạnh phiên này) – ⚠️ bot không né
-~15:15–16:30 23/11 – PMI sơ bộ Pháp, Đức, Eurozone, Anh – ⚠️ bot không né (thường nhẹ)
-Xa hơn: 21:45 23/11 PMI sơ bộ Mỹ, trong ngày 23/11 Williams (Fed NY) phát biểu – ⚠️ bot không né; 22:00 24/11 niềm tin tiêu dùng – ⚠️ bot không né; 25/11 PCE + GDP lần 2 + đơn hàng bền – bot tự né; 26/11 Lễ Tạ ơn Mỹ nghỉ, 27/11 đóng sớm (thanh khoản mỏng).
+~15:15–16:30 23/11 – PMI sơ bộ Pháp, Đức, Eurozone, Anh – ⚠️ bot không né
+Xa hơn: 21:45 23/11 PMI sơ bộ Mỹ, trong ngày 23/11 Williams (Fed NY) phát biểu – ⚠️ bot không né; 22:00 24/11 niềm tin tiêu dùng – ⚠️ bot không né; 25/11 PCE + GDP lần 2 + đơn hàng bền – bot tự né; 26/11 Mỹ nghỉ lễ.
 
 Địa chính trị (24h qua):
-Thứ Bảy 21/11 Iran tấn công tàu dầu ở Hormuz (UKMTO: 1 tàu trúng vật thể lạ, 1 tàu trúng phòng máy); Bahrain nói Iran đánh cơ sở công nghiệp, IRGC nhận bắn căn cứ Mỹ Al-Riffa, Awali. Iran nói bắn rơi UAV Mỹ trên đảo Qeshm. Hơn 14 tàu dầu tụ ở Kharg; tin "tàu Iran vượt Hormuz" ngày 22/11 bị xác định là tín hiệu giả. Đàm phán qua Qatar bế tắc, Iran nói bàn mở Hormuz là "vô ích" nếu chưa đáp ứng yêu cầu. Trump: "không vội quyết định" về Iran, chờ sau năm mới; CBS: Mỹ–Israel cân nhắc đòn mới ngắn hạn. Chưa có hạn chót hẹn giờ.
+Thứ Bảy 21/11 Iran tấn công tàu dầu ở Hormuz (UKMTO: 1 tàu trúng vật thể lạ, 1 tàu trúng phòng máy); Bahrain nói Iran đánh cơ sở công nghiệp, IRGC nhận bắn căn cứ Mỹ Al-Riffa, Awali. Hơn 14 tàu dầu tụ ở Kharg; tin "tàu Iran vượt Hormuz" ngày 22/11 bị xác định là tín hiệu giả. Đàm phán qua Qatar bế tắc, Iran nói bàn mở Hormuz là "vô ích" nếu chưa đáp ứng yêu cầu. Trump: "không vội quyết định" về Iran, chờ sau năm mới; CBS: Mỹ–Israel cân nhắc đòn mới ngắn hạn. Chưa có hạn chót hẹn giờ.
 
 Thị trường: FedWatch gần như chắc tăng 25 điểm 09/12, ~65% tăng tiếp tháng 1. Lợi suất 10/30 năm, Trung Quốc: chưa có dữ liệu mới.
 
@@ -32,7 +32,6 @@ Nguồn:
 https://www.fxstreet.com/analysis/gold-weekly-forecast-hawkish-fed-rhetoric-possible-deleveraging-weigh-heavily-on-precious-metal-202611201430
 https://www.fxstreet.com/analysis/forecasting-the-upcoming-week-its-pmi-week-along-with-more-us-inflation-202611201835
 https://www.manilatimes.net/2026/11/22/world/bahrain-says-iran-struck-industrial-site-as-tankers-hit-in-hormuz/2475616
-https://www.euronews.com/2026/11/22/tracking-site-says-iranian-tanker-reportedly-sailing-through-strait-of-hormuz-does-not-exi
 https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/
 
 Chỉ đánh giá rủi ro cho bot lưới, không phải khuyến nghị mua/bán.
