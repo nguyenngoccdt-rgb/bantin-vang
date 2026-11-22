@@ -1,37 +1,39 @@
-BẢN TIN VÀNG tối 22/11 (24h tới, đến 18:45 23/11) – RỦI RO 4/5 – NÊN TẮT BOT CẢ 24H TỚI (đến 18:45 23/11), KHÔNG để bot tự chạy lại lúc mở cửa ~06:00 23/11
+BẢN TIN VÀNG sáng 23/11 (24h tới, đến 06:45 24/11) – RỦI RO 4/5 – NÊN TẮT BOT CẢ 24H TỚI (đến 06:45 24/11)
 
-Biên độ hôm qua (phiên 20/11): 3,8% (~138$) → 24h tới nguy hiểm ~26% – THỊ TRƯỜNG LOẠN: (1) 20/11 biên độ ≥3%; (2) 18, 19, 20/11 đều ≥2,5%; (3) mất ~600$ từ ~4.148 (10/11), đáy 14 tháng.
+Biên độ hôm qua (phiên 20/11): 3,8% (~138$) → 24h tới nguy hiểm ~26% – THỊ TRƯỜNG LOẠN: (1) 20/11 biên độ ≥3%; (2) 18, 19, 20/11 đều ≥2,5%; (3) mất ~600$ trong 2 tuần, đáy 14 tháng (thấp nhất từ 09/2025).
 
 Giá vàng & xu hướng:
-Thị trường đóng cửa cuối tuần, giá đứng ở ~3.530 (đóng 20/11, dao động 3.514–3.652). Tháng 11 giảm ~8%, tuần tệ nhất từ tháng 3. Quá bán (RSI ngày <30) nhưng H4, D1 vẫn giảm. DXY sát 104, tăng 4 tuần liền.
+Mở cửa tuần mới êm, chưa gap lớn: ~3.550 lúc 06:00 23/11 (Kitco: 3.539,8–3.558,8, +11$ so với đóng 3.538 ngày 20/11). Tuần trước giảm 8,9%, mạnh nhất 8 tháng. H4, D1 vẫn giảm; quá bán nên dễ giật hồi mạnh. Phố Wall 20/11: S&P −3,7%, Nasdaq −5,3%, VIX >39 – áp lực bán tháo, giải chấp vẫn còn.
 
-CẢN & HỖ TRỢ (theo giá đóng 20/11)
-Kháng cự 2: 3.700 (+170$) – số tròn; phá lên → 3.800 (FXStreet), rổ SELL cháy
-Kháng cự 1: 3.640–3.652 (+115$) – đỉnh 20/11; gap/hồi lên đây là rổ SELL vượt xa 58$
-Giá hiện tại: ~3.530
-Hỗ trợ 1: 3.500–3.514 (−20 đến −30$) – đáy 14 tháng + số tròn; thủng → 3.450 (~60$ một mạch), rổ BUY tới tầng 10
-Hỗ trợ 2: 3.450 (−80$) – thủng → 3.270–3.320 (FXStreet: hỗ trợ 3.270; MA dài hạn ~3.322), thêm ~130–180$, cháy tài khoản
-Kịch bản nguy hiểm nhất cho bot: gap mạnh lúc mở cửa ~06:00 23/11 – LÊN nếu tàu dầu Kharg đụng hải quân Mỹ hoặc Mỹ–Israel đánh Iran; XUỐNG thủng 3.500 nếu bán tháo quay lại phiên Á.
+CẢN & HỖ TRỢ
+Kháng cự 2: 3.640–3.652 (+95$) – đỉnh 20/11; phá lên → 3.700 (+150$), rổ SELL cháy
+Kháng cự 1: 3.600–3.609 (+55$) – số tròn, R1 FXEmpire; hồi thẳng lên đây là rổ SELL sát ngưỡng 58$
+Giá hiện tại: ~3.550
+Hỗ trợ 1: 3.500–3.514 (−40 đến −50$) – đáy 20/11, số tròn; thủng → 3.447–3.450 (~60$ một mạch), rổ BUY tới tầng 10
+Hỗ trợ 2: 3.447–3.450 (−100$) – đáy vùng FXEmpire; thủng → 3.400 rồi 3.200–3.300 (thêm 150–250$), cháy tài khoản
+Kịch bản nguy hiểm nhất cho bot: rơi thủng 3.500 trong phiên Á/Âu 23/11 nếu chứng khoán tiếp tục bán tháo (giải chấp kéo vàng), hoặc vọt lên >3.610 nếu Israel/Mỹ đánh Iran hay đụng độ ở Hormuz.
 
 LỊCH 24H TỚI
-~06:00 23/11 – mở cửa tuần mới, dễ gap – ⚠️ bot không né
-06:00–14:00 23/11 – phiên Á sát đáy 3.500 (19, 20/11 đều rơi mạnh phiên này) – ⚠️ bot không né
+06:00–14:00 23/11 – phiên Á (Nhật nghỉ lễ, thanh khoản mỏng), sát đáy 3.500 – ⚠️ bot không né
 ~15:15–16:30 23/11 – PMI sơ bộ Pháp, Đức, Eurozone, Anh – ⚠️ bot không né
-Xa hơn: 21:45 23/11 PMI sơ bộ Mỹ, trong ngày 23/11 Williams (Fed NY) phát biểu – ⚠️ bot không né; 22:00 24/11 niềm tin tiêu dùng – ⚠️ bot không né; 25/11 PCE + GDP lần 2 + đơn hàng bền – bot tự né; 26/11 Mỹ nghỉ lễ.
+21:45 23/11 – PMI sơ bộ Mỹ – ⚠️ bot không né
+Trong ngày 23/11 – Williams (Fed NY) phát biểu (giờ chưa có dữ liệu) – ⚠️ bot không né
+Xa hơn: 22:00 24/11 niềm tin tiêu dùng – ⚠️ bot không né; 25/11 PCE + GDP lần 2 + đơn hàng bền – bot tự né; 26/11 Mỹ nghỉ lễ Tạ ơn; 09/12 FOMC (FedWatch ~99% tăng 25 điểm).
 
 Địa chính trị (24h qua):
-Thứ Bảy 21/11 Iran tấn công tàu dầu ở Hormuz (UKMTO: 1 tàu trúng vật thể lạ, 1 tàu trúng phòng máy); Bahrain nói Iran đánh cơ sở công nghiệp, IRGC nhận bắn căn cứ Mỹ Al-Riffa, Awali. Hơn 14 tàu dầu tụ ở Kharg; tin "tàu Iran vượt Hormuz" ngày 22/11 bị xác định là tín hiệu giả. Đàm phán qua Qatar bế tắc, Iran nói bàn mở Hormuz là "vô ích" nếu chưa đáp ứng yêu cầu. Trump: "không vội quyết định" về Iran, chờ sau năm mới; CBS: Mỹ–Israel cân nhắc đòn mới ngắn hạn. Chưa có hạn chót hẹn giờ.
+Trump nói nghiêng về nối lại tấn công Iran sau năm mới nếu không có thỏa thuận, đàm phán gián tiếp "không tiến triển"; dọa đánh chìm tàu Iran vượt phong tỏa. Phái đoàn Qatar ở Tehran 2 giờ cuối tuần; Iran gọi phong tỏa là hành động chiến tranh. IRGC nhận đánh 2 radar Patriot ở Bahrain, quân đội Iran nhận bắn trúng F-16 Mỹ (Mỹ chưa xác nhận). Nguồn Israel: Netanyahu cân nhắc đánh Iran không cần Mỹ đồng ý. UAE chuyển dầu qua Hormuz có quân Mỹ hộ tống. Houthi tấn công lọc dầu Rabigh (Ả Rập Xê Út).
 
-Thị trường: FedWatch gần như chắc tăng 25 điểm 09/12, ~65% tăng tiếp tháng 1. Lợi suất 10/30 năm, Trung Quốc: chưa có dữ liệu mới.
+Thị trường (20/11): DXY 103,84; lợi suất 10 năm 4,91%, 30 năm chưa có dữ liệu; WTI ~83,4$, Brent ~92,6$. Bessent cảnh báo Fed thắt chặt thêm có thể là sai lầm. Trung Quốc: chưa có dữ liệu mới.
 
 Lý do chấm điểm:
-Vẫn LOẠN (3 ngày biên độ ≥2,5%, đóng sát đáy 14 tháng), cuối tuần Iran leo thang nên gap mở cửa và phiên Á 23/11 có thể chạy >58$ bất kỳ hướng nào. Giữ 4/5.
-Chạy lại khi: có 1 ngày biên độ <1,5% và giá đi ngang giữ trên 3.500 (hoặc đóng ngày trên 3.700). Xem lại bản tin 06:45 23/11.
+Vẫn LOẠN: 3 ngày liền biên độ ≥2,5%, giá chỉ cách đáy 3.500 ~50$, chứng khoán toàn cầu đang điều chỉnh, rủi ro Iran–Israel leo thang. Cú 60$+ có thể đến bất kỳ giờ nào, kể cả phiên Á. Mở cửa êm chưa đủ để chạy lại.
+Chạy lại khi: có 1 ngày biên độ <1,5% và giá đi ngang giữ trên 3.500 (hoặc đóng ngày trên 3.650). Xem lại bản tin 18:45 23/11.
 
 Nguồn:
-https://www.fxstreet.com/analysis/gold-weekly-forecast-hawkish-fed-rhetoric-possible-deleveraging-weigh-heavily-on-precious-metal-202611201430
-https://www.fxstreet.com/analysis/forecasting-the-upcoming-week-its-pmi-week-along-with-more-us-inflation-202611201835
-https://www.manilatimes.net/2026/11/22/world/bahrain-says-iran-struck-industrial-site-as-tankers-hit-in-hormuz/2475616
-https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/
+https://www.kitco.com/charts/gold
+https://www.newsquawk.com/headlines/newsquawk-daily-asia-pac-opening-news---23rd-november-2026
+https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-deepening-selloff-nears-major-support-1646229
+https://fxempire.com/forecasts/article/gold-price-forecast-selloff-echoes-2022-as-fed-hike-fears-grow-1646371
+https://tradingeconomics.com/commodity/gold
 
 Chỉ đánh giá rủi ro cho bot lưới, không phải khuyến nghị mua/bán.
