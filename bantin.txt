@@ -1,39 +1,39 @@
-BẢN TIN VÀNG sáng 23/11 (24h tới, đến 06:45 24/11) – RỦI RO 4/5 – NÊN TẮT BOT CẢ 24H TỚI (đến 06:45 24/11)
+BẢN TIN VÀNG tối 23/11 (24h tới, đến 18:45 24/11) – RỦI RO 4/5 – NÊN TẮT BOT CẢ 24H TỚI (đến 18:45 24/11)
 
-Biên độ hôm qua (phiên 20/11): 3,8% (~138$) → 24h tới nguy hiểm ~26% – THỊ TRƯỜNG LOẠN: (1) 20/11 biên độ ≥3%; (2) 18, 19, 20/11 đều ≥2,5%; (3) mất ~600$ trong 2 tuần, đáy 14 tháng (thấp nhất từ 09/2025).
+Biên độ hôm qua (phiên 20/11): 3,8% (~138$) → 24h tới nguy hiểm ~26% – THỊ TRƯỜNG LOẠN: (1) 20/11 biên độ ≥3%; (2) 18, 19, 20/11 đều ≥2,5%; (4) 23/11 tăng một mạch ~90$ (3.540 → 3.630) không hồi đáng kể.
 
 Giá vàng & xu hướng:
-Mở cửa tuần mới êm, chưa gap lớn: ~3.550 lúc 06:00 23/11 (Kitco: 3.539,8–3.558,8, +11$ so với đóng 3.538 ngày 20/11). Tuần trước giảm 8,9%, mạnh nhất 8 tháng. H4, D1 vẫn giảm; quá bán nên dễ giật hồi mạnh. Phố Wall 20/11: S&P −3,7%, Nasdaq −5,3%, VIX >39 – áp lực bán tháo, giải chấp vẫn còn.
+Vàng hồi mạnh từ đáy 14 tháng: ~3.540 lúc mở cửa 06:00 23/11 lên đỉnh ~3.630 trong phiên Á/Âu, hiện ~3.600–3.620 (+2–2,4%). Do USD giảm (DXY ~103,75), cược Fed tăng lãi bớt nóng. D1 vẫn giảm (mất ~9% tuần trước), H4 đang hồi kỹ thuật – dễ giật mạnh cả 2 chiều.
 
 CẢN & HỖ TRỢ
-Kháng cự 2: 3.640–3.652 (+95$) – đỉnh 20/11; phá lên → 3.700 (+150$), rổ SELL cháy
-Kháng cự 1: 3.600–3.609 (+55$) – số tròn, R1 FXEmpire; hồi thẳng lên đây là rổ SELL sát ngưỡng 58$
-Giá hiện tại: ~3.550
-Hỗ trợ 1: 3.500–3.514 (−40 đến −50$) – đáy 20/11, số tròn; thủng → 3.447–3.450 (~60$ một mạch), rổ BUY tới tầng 10
-Hỗ trợ 2: 3.447–3.450 (−100$) – đáy vùng FXEmpire; thủng → 3.400 rồi 3.200–3.300 (thêm 150–250$), cháy tài khoản
-Kịch bản nguy hiểm nhất cho bot: rơi thủng 3.500 trong phiên Á/Âu 23/11 nếu chứng khoán tiếp tục bán tháo (giải chấp kéo vàng), hoặc vọt lên >3.610 nếu Israel/Mỹ đánh Iran hay đụng độ ở Hormuz.
+Kháng cự 2: 3.685–3.700 (+80$) – phá lên → 3.746–3.766 (thêm ~60$), rổ SELL cháy
+Kháng cự 1: 3.630–3.651 (+20 đến +40$) – đỉnh 23/11, đường xu hướng; vượt → 3.695–3.700 (~55–60$ một mạch), rổ SELL tới tầng 10
+Giá hiện tại: ~3.610
+Hỗ trợ 1: 3.570–3.595 (−15 đến −40$) – pivot đã giữ; thủng → 3.500–3.520 (~90$ từ giá hiện tại), rổ BUY cháy
+Hỗ trợ 2: 3.500–3.503 (−110$) – đáy 20/11, số tròn; thủng → 3.450 rồi 3.380 (thêm 120$+)
+Kịch bản nguy hiểm nhất cho bot: hồi xong đảo chiều rơi lại về 3.500 nếu PMI Mỹ 21:45 23/11 mạnh (cược Fed tăng lãi quay lại) hoặc chứng khoán Mỹ bán tháo tiếp đêm 23–24/11 (giải chấp); ngược lại vọt qua 3.651 nếu Iran/Mỹ đụng độ ở Hormuz.
 
 LỊCH 24H TỚI
-06:00–14:00 23/11 – phiên Á (Nhật nghỉ lễ, thanh khoản mỏng), sát đáy 3.500 – ⚠️ bot không né
-~15:15–16:30 23/11 – PMI sơ bộ Pháp, Đức, Eurozone, Anh – ⚠️ bot không né
+20:30 23/11 – Chỉ số Chicago Fed – ⚠️ bot không né
 21:45 23/11 – PMI sơ bộ Mỹ – ⚠️ bot không né
-Trong ngày 23/11 – Williams (Fed NY) phát biểu (giờ chưa có dữ liệu) – ⚠️ bot không né
-Xa hơn: 22:00 24/11 niềm tin tiêu dùng – ⚠️ bot không né; 25/11 PCE + GDP lần 2 + đơn hàng bền – bot tự né; 26/11 Mỹ nghỉ lễ Tạ ơn; 09/12 FOMC (FedWatch ~99% tăng 25 điểm).
+21:30 23/11 → 04:00 24/11 – phiên Mỹ, chứng khoán sau cú −3,7% (S&P) / −5,3% (Nasdaq) ngày 20/11 – ⚠️ bot không né
+23/11–24/11 – quan chức Fed phát biểu (giờ chưa có dữ liệu) – ⚠️ bot không né
+16:30 24/11 – Ifo Đức – ⚠️ bot không né
+Xa hơn: 22:00 24/11 niềm tin tiêu dùng Mỹ – ⚠️ bot không né; 25/11 PCE + GDP + đơn hàng bền – bot tự né; 26/11 Mỹ nghỉ Tạ ơn (thanh khoản mỏng); 09/12 FOMC (~93% tăng 25 điểm).
 
 Địa chính trị (24h qua):
-Trump nói nghiêng về nối lại tấn công Iran sau năm mới nếu không có thỏa thuận, đàm phán gián tiếp "không tiến triển"; dọa đánh chìm tàu Iran vượt phong tỏa. Phái đoàn Qatar ở Tehran 2 giờ cuối tuần; Iran gọi phong tỏa là hành động chiến tranh. IRGC nhận đánh 2 radar Patriot ở Bahrain, quân đội Iran nhận bắn trúng F-16 Mỹ (Mỹ chưa xác nhận). Nguồn Israel: Netanyahu cân nhắc đánh Iran không cần Mỹ đồng ý. UAE chuyển dầu qua Hormuz có quân Mỹ hộ tống. Houthi tấn công lọc dầu Rabigh (Ả Rập Xê Út).
+Trump hoãn khả năng đánh Iran tới sau năm mới, nhưng dọa đánh nếu đàm phán thất bại, muốn thỏa thuận hạt nhân "vĩnh viễn". Iran nối lại tấn công Bahrain (2 người bị thương), tuyên bố dùng "mọi công cụ" chống phong tỏa hải quân Mỹ. Sự cố tàu dầu ở vịnh Oman (UKMTO); Ả Rập Xê Út chặn tên lửa Houthi nhắm Riyadh. Chưa có hạn chót/công bố đàm phán cụ thể.
 
-Thị trường (20/11): DXY 103,84; lợi suất 10 năm 4,91%, 30 năm chưa có dữ liệu; WTI ~83,4$, Brent ~92,6$. Bessent cảnh báo Fed thắt chặt thêm có thể là sai lầm. Trung Quốc: chưa có dữ liệu mới.
+Thị trường: lợi suất 10 năm ~4,94%, 30 năm chưa có dữ liệu; WTI <83$, Brent ~92$. Trung Quốc: chưa có dữ liệu mới.
 
 Lý do chấm điểm:
-Vẫn LOẠN: 3 ngày liền biên độ ≥2,5%, giá chỉ cách đáy 3.500 ~50$, chứng khoán toàn cầu đang điều chỉnh, rủi ro Iran–Israel leo thang. Cú 60$+ có thể đến bất kỳ giờ nào, kể cả phiên Á. Mở cửa êm chưa đủ để chạy lại.
-Chạy lại khi: có 1 ngày biên độ <1,5% và giá đi ngang giữ trên 3.500 (hoặc đóng ngày trên 3.650). Xem lại bản tin 18:45 23/11.
+Vẫn LOẠN: 3 ngày biên độ ≥2,5% liền, hôm nay lại chạy một chiều ~90$ chỉ trong vài giờ phiên Á – vượt sức chịu 58$, không cần tin. Giá đang giữa 3.595 và 3.651, phá bên nào cũng dễ chạy 60$+.
+Chạy lại khi: có 1 ngày biên độ <1,5% và giá đi ngang giữ trên 3.570 (hoặc đóng ngày trên 3.700). Xem lại bản tin 06:45 24/11.
 
 Nguồn:
-https://www.kitco.com/charts/gold
-https://www.newsquawk.com/headlines/newsquawk-daily-asia-pac-opening-news---23rd-november-2026
-https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-deepening-selloff-nears-major-support-1646229
-https://fxempire.com/forecasts/article/gold-price-forecast-selloff-echoes-2022-as-fed-hike-fears-grow-1646371
-https://tradingeconomics.com/commodity/gold
+https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-rebounds-from-14-month-low-as-hike-bets-cool-can-3595-hold-1646447
+https://www.mitrade.com/insights/commodity-analysis/gold/gold-rebounds-above-3600-stock-correction
+https://www.goodreturns.in/news/gold-rates-silver-rates-today-23-11-2026-live-updates-mcx-gold-silver-price-24k-22k-18k-gold-prices-1548905.html
+https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-23-2026
 
 Chỉ đánh giá rủi ro cho bot lưới, không phải khuyến nghị mua/bán.
