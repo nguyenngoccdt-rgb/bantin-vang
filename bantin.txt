@@ -1,39 +1,38 @@
-BẢN TIN VÀNG sáng 24/11 (24h tới, đến 06:45 25/11) – RỦI RO 4/5 – NÊN TẮT BOT CẢ 24H TỚI (đến 06:45 25/11)
+BẢN TIN VÀNG tối 24/11 (24h tới, đến 18:45 25/11) – RỦI RO 4/5 – NÊN TẮT BOT CẢ 24H TỚI (đến 18:45 25/11)
 
-Biên độ hôm qua (phiên 23/11): ~4,5% (~164$, 3.526–3.690) → 24h tới nguy hiểm ~26% – THỊ TRƯỜNG LOẠN: (1) 23/11 biên độ ≥3%; (2) 20/11 và 23/11 đều ≥2,5%; (4) 23/11 tăng một mạch ~150$ từ đáy 3.526 lên 3.690 không hồi đáng kể.
+Biên độ hôm qua (phiên 23/11): ~4,5% (~164$, 3.526–3.690) → 24h tới nguy hiểm ~26% – THỊ TRƯỜNG LOẠN: (1) 23/11 biên độ ≥3%; (2) 20/11 và 23/11 đều ≥2,5%; (4) 23/11 tăng một mạch ~150$ không hồi.
 
 Giá vàng & xu hướng:
-Vàng đóng phiên 23/11 ~3.632–3.635 (+1,4% đến +2,7% tùy nguồn), sau khi vọt lên 3.680–3.690 nhờ USD/lợi suất hạ nhiệt và tin Nvidia, rồi nhả lại ~55$. Giá phiên Á 24/11: chưa có dữ liệu. D1 vẫn giảm (tuần trước −9%, đáy năm 3.503), H4 hồi kỹ thuật ngược xu hướng – giật mạnh cả 2 chiều.
+24/11 chạy 3.613–3.679 (~66$, ~1,8%): phiên Á lên 3.679 rồi rơi về 3.619; phiên Âu hồi ~3.650 bị chặn do cược Fed tăng lãi. Giá lúc 18:45 chưa có dữ liệu chính xác (~3.620–3.650). D1 vẫn giảm (đáy năm 3.503), H4 đi ngang 3.600–3.690.
 
 CẢN & HỖ TRỢ
-Kháng cự 2: 3.852–3.901 (+220$) – đáy xu hướng cũ đã gãy, đỉnh 16/11; chỉ tới khi xu hướng đảo hẳn
-Kháng cự 1: 3.690–3.700 (+60$) – đỉnh 23/11, đỉnh vùng cản 3.597–3.699; phá lên → đường tới 3.852 khá trống (~150$), rổ SELL cháy
-Giá hiện tại: ~3.630 (đóng cửa 23/11)
-Hỗ trợ 1: 3.597–3.609 (−20 đến −35$) – pivot/đáy vùng cản; thủng → 3.526–3.540 (đáy 23/11, ~90–100$ một mạch), rổ BUY cháy
-Hỗ trợ 2: 3.500–3.503 (−130$) – đáy năm 20/11, số tròn; thủng → 3.447 rồi 3.268 (thêm 50–230$)
-Kịch bản nguy hiểm nhất cho bot: nhịp hồi thất bại, rơi lại từ 3.600 về 3.530 nếu niềm tin tiêu dùng 22:00 24/11 mạnh hoặc quan chức Fed tiếp tục giọng "phải hành động" (cược tăng lãi quay lại), chứng khoán Mỹ bán tháo tiếp; hoặc vọt qua 3.700 nếu Mỹ–Iran đụng độ trên biển.
+Kháng cự 2: 3.700 (+~60$) – số tròn, cận trên vùng cản 3.597–3.699; đóng trên → mục tiêu 3.800 (~100$ một mạch), rổ SELL cháy
+Kháng cự 1: 3.679–3.690 (+~40$) – đỉnh 23/11 và 24/11; phá lên → nhanh tới 3.700
+Giá hiện tại: ~3.630
+Hỗ trợ 1: 3.600–3.613 (−20 đến −30$) – đáy 24/11, số tròn; thủng → 3.540 (~70$ một mạch), rổ BUY có thể xuống tầng 10
+Hỗ trợ 2: 3.526–3.540 (−90 đến −105$) – đáy 23/11; thủng → 3.503 rồi 3.400 (thêm 30–140$)
+Kịch bản nguy hiểm nhất cho bot: niềm tin tiêu dùng 22:00 24/11 mạnh, USD/lợi suất tăng lại → thủng 3.600, rơi một mạch về 3.540; hoặc tin Iran phá phong tỏa/đụng độ trên biển → vọt qua 3.700.
 
 LỊCH 24H TỚI
-16:30 24/11 – Ifo Đức – ⚠️ bot không né
-22:00 24/11 – Niềm tin tiêu dùng Mỹ (Conference Board) – ⚠️ bot không né
-24/11 – quan chức Fed phát biểu (giờ chưa có dữ liệu) – ⚠️ bot không né
-21:30 24/11 → 04:00 25/11 – phiên Mỹ, chứng khoán còn yếu sau đợt bán tháo AI – ⚠️ bot không né
-Xa hơn: 20:30 25/11 PCE tháng 10 + GDP Q3 – bot tự né (ngừng mở rổ từ 19:00 25/11); 26/11 Mỹ nghỉ Tạ ơn, 27/11 đóng cửa sớm (thanh khoản mỏng); FOMC 09/12 (~93% tăng 25 điểm).
+22:00 24/11 – Niềm tin tiêu dùng Mỹ (Conference Board) + Richmond Fed – ⚠️ bot không né
+23:30 24/11 – Thống đốc BoC Macklem phát biểu – ⚠️ bot không né
+21:30 24/11 → 04:00 25/11 – phiên Mỹ, thanh khoản mỏng trước Tạ ơn – ⚠️ bot không né
+19:00 25/11 – bot ngừng mở rổ trước PCE – bot tự né
+Xa hơn: 20:30 25/11 PCE tháng 10 + GDP Q3 + đơn thất nghiệp – bot tự né; 26/11 Mỹ nghỉ Tạ ơn, 27/11 đóng cửa sớm 01:00 28/11; FOMC 09/12 (~93% tăng 25 điểm).
 
 Địa chính trị (24h qua):
-Có tin Mỹ đánh thêm 1 tàu dầu chở dầu Iran (chưa bên nào xác nhận); UKMTO báo sự cố quân sự ở vịnh Oman gần Chabahar. Trump dọa đánh chìm tàu Iran nếu phá phong tỏa, nghiêng về đánh lại nếu không có thỏa thuận trước năm mới. Iran gọi phong tỏa là "hành động chiến tranh", dọa trả đũa hạ tầng năng lượng vùng Vịnh; Pakistan/Qatar vẫn hòa giải, Iran nói có thể mở Hormuz "trong 2 giờ" nếu có thỏa thuận – chưa có lịch công bố.
+Iran ra lệnh siết Hormuz "thêm từng ngày" đến khi Mỹ đáp ứng 7 điều kiện; IRGC nói 3 tàu dầu trúng mìn (chưa xác nhận); Ghalibaf dọa dùng quân sự phá phong tỏa "sắp tới". Qatar gặp Rubio/Vance nối lại đàm phán, chưa kết quả.
 
-Thị trường: DXY ~104,3–104,5 (gần đỉnh 19 tháng); lợi suất 10 năm ~4,94%, 30 năm chưa có dữ liệu; WTI ~80$, Brent ~87–89$. Trung Quốc: chưa có dữ liệu mới.
+Thị trường: DXY ~104,3 (gần đỉnh 19–20 tháng); lợi suất 10 năm ~4,94%, 30 năm >5%; WTI ~80$, Brent ~87–89$. Trung Quốc: PBoC mua ~26 tấn tháng 10.
 
 Lý do chấm điểm:
-Vẫn LOẠN: ngày 23/11 biên độ ~164$, gấp gần 3 lần sức chịu 58$ của bot, chạy một chiều ~150$ chỉ trong vài giờ phiên Á/Âu, không cần tin hẹn giờ. Giá kẹt giữa 3.600 và 3.700, phá bên nào cũng dễ chạy 60$+; trước PCE và Tạ ơn thanh khoản sẽ mỏng dần.
-Chạy lại khi: có 1 ngày biên độ <1,5% và giá đi ngang giữ trên 3.600 (hoặc đóng ngày trên 3.700). Xem lại bản tin 18:45 24/11.
+Vẫn LOẠN: 23/11 biên độ ~164$, gấp gần 3 lần sức chịu 58$; hôm nay vẫn chạy ~66$ trong vài giờ. Giá kẹt 3.600–3.700, phá bên nào cũng dễ chạy 60$+.
+Chạy lại khi: có 1 ngày biên độ <1,5% và giá đi ngang giữ trên 3.600 (hoặc đóng ngày trên 3.700). Hôm nay ~1,8% nên chưa đủ; mai có PCE.
 
 Nguồn:
-https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-bullish-reversal-targets-3900-resistance-1646727
-https://tradingeconomics.com/commodity/gold
-https://financefeeds.com/gold-price-today-3618-monday-rebound-hike-odds-ease-pce-wednesday-bull-3700-bear-3500/
-https://www.mitrade.com/au/insights/news/live-news/article-2-2272579-20261124
-https://gulfnews.com/world/mena/trump-threatens-to-sink-iranian-vessels-as-us-strikes-oil-tanker-ghalibaf-calls-for-lasting-security-1.500757421
+https://financefeeds.com/gold-price-today-3619-tuesday-rebound-stalls-pce-wednesday-bull-3700-bear-3540/
+https://www.kitco.com/news/off-the-wire/2026-11-23/gold-rises-bargain-hunters-step-after-steep-weekly-drop
+https://www.euronews.com/2026/11/24/iran-orders-hormuz-closed-further-day-by-day-as-qatar-seeks-to-revive-peace-talks
+https://www.thenationalnews.com/news/gulf/2026/11/24/is-iran-weighing-tanker-convoy-to-break-us-blockade/
 
 Chỉ đánh giá rủi ro cho bot lưới, không phải khuyến nghị mua/bán.
