@@ -1,39 +1,40 @@
-BẢN TIN VÀNG sáng 25/11 (24h tới, đến 06:45 26/11) – RỦI RO 5/5 – NÊN TẮT BOT CẢ 24H TỚI (đến 06:45 26/11)
+BẢN TIN VÀNG tối 25/11 (24h tới, đến 18:45 26/11) – RỦI RO 5/5 – NÊN TẮT BOT CẢ 24H TỚI (đến 18:45 26/11)
 
-Biên độ hôm qua (phiên 24/11): ~3,6% (~130$, ~3.679–3.550) → 24h tới nguy hiểm ~26% – THỊ TRƯỜNG LOẠN: (1) 24/11 biên độ ≥3%; (2) 20/11, 23/11, 24/11 đều ≥2,5%; (4) 24/11 rơi một mạch ~90$ (3.645 → ~3.555) trong phiên Âu–Mỹ.
+Biên độ hôm qua (phiên 24/11): ~3,6% (~130$, 3.679–3.546) → 24h tới nguy hiểm ~26% – THỊ TRƯỜNG LOẠN: (1) 24/11 biên độ ≥3%; (2) 20/11, 23/11, 24/11 đều ≥2,5%; (4) từ 18:45 24/11 tới nay rơi một mạch ~90$ (~3.600 → đáy 3.512 sáng 25/11).
 
 Giá vàng & xu hướng:
-24/11: phiên Á lên 3.679, bị chặn ở 3.651 rồi rơi ~2,2–2,4% về ~3.550–3.565 vì cược Fed tăng lãi tháng 12 (~97%). Giá lúc 06:45 25/11 chưa có dữ liệu chính xác, gần nhất ~3.555. D1 giảm mạnh (tuần trước −9%), H4 quay lại giảm, xóa gần hết nhịp hồi 23/11.
+24/11 đóng ~3.552–3.556 (−2,2%). 25/11 phiên Á–Âu tiếp tục giảm, đáy 3.512, giá gần nhất ~3.520–3.527 (14:47 25/11). Sát đáy 14 tháng 3.513 (20/11). D1 giảm mạnh (tháng 11 −8%), H4 giảm, RSI ~29 quá bán. CME tăng ký quỹ vàng 5%→6%.
 
 CẢN & HỖ TRỢ
-Kháng cự 2: 3.645–3.651 (+~90$) – nơi bị chặn 24/11; phá lên → 3.680–3.707, rổ SELL đã quá sức chịu
-Kháng cự 1: 3.600 (+~45$) – số tròn, đã thành cản; PCE yếu có thể bật vọt lên đây một mạch
-Giá hiện tại: ~3.555 (ước)
-Hỗ trợ 1: 3.515–3.526 (−30 đến −40$) – đáy 20/11 (thấp nhất từ 09/2025) và 23/11; thủng → 3.500 rồi 3.442–3.474 (~80$ một mạch), rổ BUY có thể xuống tầng 10
-Hỗ trợ 2: 3.500 (−~55$) – số tròn tâm lý; thủng → 3.440–3.460 (thêm 40–60$), tổng ~110$ từ giá hiện tại
-Kịch bản nguy hiểm nhất cho bot: PCE 20:30 25/11 nóng (lõi ≥0,3% tháng lần 3 → cược Fed tăng 50 điểm) → thủng 3.515 và 3.500, rơi một mạch 80–110$; hoặc tin Iran/Hormuz (mìn, tàu trúng đạn, Mỹ nhắm lãnh đạo Iran) → vọt ngược 3.600+. Sau 21:30 thanh khoản mỏng trước Tạ ơn dễ quét mạnh.
+Kháng cự 2: 3.651 (+~125$) – đỉnh bị chặn 24/11; phá lên → 3.680–3.694, rổ SELL đã quá sức chịu từ lâu
+Kháng cự 1: 3.595–3.600 (+~75$) – pivot + số tròn; PCE yếu có thể vọt lên đây một mạch (>58$)
+Giá hiện tại: ~3.525
+Hỗ trợ 1: 3.500–3.513 (−12 đến −25$) – số tròn + đáy 14 tháng; thủng → 3.440–3.460 (~65–85$ một mạch), rổ BUY có thể xuống tầng 10
+Hỗ trợ 2: 3.431–3.460 (−65 đến −95$) – thủng → 3.380–3.400 (thêm 50–60$, tổng ~130$)
+Kịch bản nguy hiểm nhất cho bot: PCE 20:30 25/11 nóng → thủng 3.500 có lệnh dừng lỗ dồn dưới 3.490, rơi một mạch 70–130$ tới 3.440/3.400. Ngược lại PCE yếu hoặc tin Hormuz leo thang → vọt 70$+ về 3.600 (bắt đáy + đóng vị thế bán trước Tạ ơn).
 
 LỊCH 24H TỚI
 19:00 25/11 – bot ngừng mở rổ trước PCE – bot tự né
-20:30 25/11 – PCE tháng 10 + GDP Q3 + đơn thất nghiệp + đơn hàng lâu bền – bot tự né
-21:30 25/11 → 04:00 26/11 – phiên Mỹ trước Tạ ơn, thanh khoản mỏng – ⚠️ bot không né
+20:30 25/11 – PCE tháng 10 (lõi dự báo +0,3%) + GDP Q3 lần 2 + đơn thất nghiệp – bot tự né
+21:30 25/11 → 04:00 26/11 – phiên Mỹ trước Tạ ơn, thanh khoản mỏng, quét mạnh – ⚠️ bot không né
 02:00 26/11 – Beige Book của Fed – ⚠️ bot không né
-Xa hơn: 26/11 Mỹ nghỉ Tạ ơn, 27/11 đóng sớm; bot tự khóa trước đóng phiên ~04:57 28/11; FOMC 02:00 10/12 (~97% tăng 25 điểm).
+26/11 cả ngày – Mỹ nghỉ Tạ ơn, thanh khoản rất mỏng – ⚠️ bot không né
+Xa hơn: 27/11 Mỹ đóng sớm; bot tự khóa trước đóng phiên ~04:57 28/11; FOMC 02:00 10/12 (~96% tăng 25 điểm).
 
 Địa chính trị (24h qua):
-Iran: 2–3 tàu dầu trúng mìn ở Hormuz; IRGC cảnh báo tàu đi tuyến "không được phép"; Ghalibaf bác đàm phán đến khi Mỹ đáp ứng 7 điều kiện; NBC: Mỹ cân nhắc nhắm lãnh đạo cấp cao Iran; Mỹ trừng phạt thêm 22 tổ chức. Qatar nói vẫn hòa giải. Houthi tấn công tòa nhà ở Riyadh.
+Hormuz: thêm 2 tàu dầu trúng mìn, nổ cháy; IRGC nói tàu đi tuyến "không được phép", quân đội Iran triển khai hệ thống giám sát mới. Tehran nói chỉ mở lại khi Mỹ dỡ phong tỏa cảng và chấm dứt chiến sự; Qatar chuyển đề xuất mở eo biển trong 48h nếu Mỹ đáp ứng. Mỹ (WSJ) chuẩn bị tăng thuế với Trung Quốc, EU và hơn chục nền kinh tế, chưa có hạn chót.
 
-Thị trường: DXY ~104 (gần đỉnh 19 tháng); lợi suất 10 năm ~4,9–5%, 30 năm chưa có dữ liệu mới; Brent ~88$, WTI ~79–81$. Trung Quốc: chưa có tin mới.
+Thị trường: DXY ~104 (gần đỉnh 20 tháng); lợi suất 10 năm ~4,91%, 30 năm chưa có dữ liệu; WTI ~80,7–81$, Brent ~87,6$; cược Fed tăng lãi 12/2026 ~96%. Trung Quốc: chưa có tin mới.
 
 Lý do chấm điểm:
-Loạn nặng: 3 trong 4 phiên gần nhất biên độ ≥2,5%, mỗi ngày đều có nhịp 90–160$ một chiều, gấp 1,5–3 lần sức chịu 58$. Giá sát đáy năm 3.515 ngay trước PCE và kỳ nghỉ, Hormuz nóng lên.
-Chạy lại khi: có 1 ngày biên độ <1,5% và giá đi ngang giữ trên 3.515 (hoặc đóng ngày trên 3.650). Sớm nhất xem lại sau Tạ ơn.
+Loạn nặng: 3/4 phiên gần nhất biên độ ≥2,5%, mỗi ngày có nhịp 90–130$ một chiều, gấp 1,5–2 lần sức chịu 58$. Giá đứng ngay trên 3.500 trước PCE và kỳ nghỉ mỏng thanh khoản, Hormuz leo thang.
+Chạy lại khi: có 1 ngày biên độ <1,5% và giá đi ngang giữ trên 3.500 (hoặc đóng ngày trên 3.600). Sớm nhất xem lại sau Tạ ơn.
 
 Nguồn:
-https://www.fxstreet.com/news/gold-falls-to-near-3-550-ahead-of-us-pce-inflation-data-202611242321
-https://www.usagold.com/daily-precious-metals-market-report-november-24-2026/
-https://www.fxleaders.com/news/2026/11/24/gold-price-forecast-xau-usd-rejected-at-3651-ahead-of-pce-inflation/
-https://au.investing.com/analysis/gold-price-crash-tests-3500-as-fed-hike-bets-reach-97-200618458
-https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688
+https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-slips-again-as-fed-hike-bets-firm-can-3503-hold-1647067
+https://www.mitrade.com/insights/commodity-analysis/gold/gold-tumbles-bca-exits-before-pce
+https://www.tradingkey.com/analysis/commodities/metal/262321662-gold-hovers-near-15-month-low-ahead-us-pce-3500-test-tradingkey
+https://ancstockinvestments.com/blog/2026/11/25/gold-price-falls-toward-3500/
+https://www.brecorder.com/news/40450695/iran-says-ships-hit-mines-in-hormuz-warns-vessels-to-coordinate-passage
 
 Chỉ đánh giá rủi ro cho bot lưới, không phải khuyến nghị mua/bán.
