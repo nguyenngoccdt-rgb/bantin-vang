@@ -1,11 +1,33 @@
-🚨 TIN KHẨN 22:25 25/11 – PCE + GDP Mỹ nóng, vàng thủng 3.500
+BẢN TIN VÀNG sáng 26/11 (24h tới, đến 06:45 27/11) – RỦI RO 5/5 – NÊN TẮT BOT CẢ 24H TỚI (đến 06:45 27/11)
 
-- 20:30 25/11: PCE tháng 10 tăng 3,8%/năm (tháng trước 3,7%), PCE lõi 3,3%; GDP Q3 lần 2 +4,3% (dự báo 3,4%); đơn thất nghiệp thấp 189 nghìn. Thị trường gần như chắc Fed TĂNG lãi 10/12 (~98%).
-- Vàng rơi một mạch ~35–40$ trong 30 phút sau tin: từ ~3.514 (20:25) xuống ~3.477–3.480 (21:00), thủng hỗ trợ 3.500 (đáy 15 tháng). Hướng: GIẢM. Mốc kế tiếp 3.440–3.460, xa hơn 3.400.
-- Bot lưới: rổ BUY nguy hiểm nhất – nếu giá xuống 3.440 là đã ~75$ một chiều từ 3.514, vượt sức chịu 58$. Đúng kịch bản xấu bản tin 18:45 đã cảnh báo. Giữ bot TẮT, không mở rổ mới đến ít nhất 18:45 26/11 (Mỹ nghỉ Tạ ơn, thanh khoản mỏng); nếu đang còn rổ BUY mở thì xem xét đóng/giảm. Chỉ chạy lại khi giá đi ngang và lấy lại trên 3.500.
+Biên độ hôm qua (phiên 25/11): ~3,2–4% (~110–145$, đáy 3.446, đỉnh ≥3.556) → 24h tới nguy hiểm ~26% – THỊ TRƯỜNG LOẠN: (1) 25/11 biên độ ≥3%; (2) 23/11, 24/11, 25/11 đều ≥2,5%; (4) 24h qua rơi một mạch ~110$ (3.556 → 3.446 sau PCE/GDP) rồi bật ngược ~120$+.
+
+Giá vàng & xu hướng:
+Sau tin 20:30 25/11 (PCE lõi 3,3%, GDP Q3 4,3%) vàng thủng 3.500, đáy 3.446 (thấp nhất 15 tháng). Sau đó lợi suất giảm, USD yếu, Phố Wall hồi → vàng bật lại trên 3.550; vàng tương lai tháng 12 ~3.579 sáng 26/11 (giao ngay ước ~3.570, chưa có số chốt chính xác). D1 giảm mạnh (−16%/15 phiên), H4 hồi kỹ thuật hình chữ V.
+
+CẢN & HỖ TRỢ
+Kháng cự 2: 3.634–3.651 (+~60–75$) – phá lên → 3.677–3.691 (đỉnh 23/11)
+Kháng cự 1: 3.600 (+~25$) – số tròn; phá lên → 3.634–3.651, tổng ~75$ một mạch từ giá hiện tại, rổ SELL có thể xuống tầng 10
+Giá hiện tại: ~3.570–3.580
+Hỗ trợ 1: 3.550 (−~25$) – mốc hồi trên; thủng → 3.500–3.513 (~65$ một mạch), rổ BUY xuống tầng 10
+Hỗ trợ 2: 3.500–3.513 (−~65–75$) – thủng → 3.446 (đáy 15 tháng, ~130$), xa hơn 3.400
+Kịch bản nguy hiểm nhất cho bot: thanh khoản Tạ ơn rất mỏng, nhịp hồi thất bại dưới 3.600 → rơi lại 3.500 (~70$ một chiều). Hoặc tin Hormuz/thuế quan bất ngờ đẩy vàng vọt 60$+ qua 3.600–3.650. Cả 2 chiều đều vượt sức chịu 58$.
+
+LỊCH 24H TỚI
+Cả ngày 26/11 – Mỹ nghỉ lễ Tạ ơn, thị trường Mỹ đóng, vàng thanh khoản rất mỏng, dễ giật – ⚠️ bot không né
+Đêm 26/11 → sáng 27/11 – chưa có lịch phát biểu Fed; tin Hormuz/thuế quan có thể ra bất kỳ lúc nào – ⚠️ bot không né
+Xa hơn: 27/11 Mỹ đóng sớm (nửa phiên) – cần kiểm tra giờ đóng XAUUSDc trên Exness, nếu đóng sớm hơn 04:57 28/11 thì bot có thể KHÔNG kịp tự khóa cuối tuần; OPEC+ họp Chủ nhật 29/11; 30/11 ngày thông báo giao hàng HĐ vàng tháng 12; NFP 20:30 04/12; FOMC 02:00 10/12 (~96–98% tăng 25 điểm).
+
+Địa chính trị (24h qua):
+Hormuz: Iran nói thêm tàu LNG cháy sau khi trúng mìn; Qatar đề xuất mở lại eo biển gắn với thanh tra hạt nhân và nối lại đàm phán Mỹ–Iran, chưa có kết quả. Dầu tăng (WTI ~84$, Brent ~90–92$). Mỹ dự kiến áp thuế lên 14 đối tác (Trung Quốc 20%, Việt Nam 35%...), chưa có hạn chót. Thị trường: DXY ~103,6; lợi suất 10 năm ~4,87%, 30 năm ~5,25%; VIX ~28. Trung Quốc: chưa có tin mới.
+
+Lý do chấm điểm:
+4 phiên liền biên độ ≥2,5%, phiên 25/11 vừa rơi 110$ vừa bật 120$+ trong vài giờ – gấp đôi sức chịu 58$. Kỳ nghỉ Tạ ơn làm thanh khoản mỏng, dễ giật mạnh không cần tin.
+Chạy lại khi: có 1 ngày biên độ <1,5% và giá đi ngang giữ trên 3.550 (tốt hơn: đóng ngày trên 3.600). Sớm nhất xem lại bản tin 06:45 27/11 hoặc sau cuối tuần.
 
 Nguồn:
-https://upstox.com/news/market-news/commodities/gold-price-tracker-nov-25-mcx-gold-prices-mcx-silver-rates-comex-gold-comex-silver-us-pce-inflation-data-in-focus-check-silver-prices-today/liveblog-203915/
-https://coingape.com/markets/gold-price-prediction-as-xau-usd-hits-a-15-month-low-of-3500-after-us-pce-inflation-data/
+https://www.tradingnews.com/news/gold-xau-usd-breaks-3500-to-3446-as-real-yields-rise-22bp-3650-usd-rebound-target-hinges-on-3400
+https://www.fxstreet.com/news/gold-rebounds-above-3-550-as-easing-yields-and-weaker-us-dollar-counter-hot-us-inflation-data-202611252326
+https://www.arabnews.com/middle-east/iran-claims-lng-tanker-ablaze-in-hormuz-after-hitting-mine-3013942
 
 Chỉ đánh giá rủi ro cho bot lưới, không phải khuyến nghị mua/bán.
