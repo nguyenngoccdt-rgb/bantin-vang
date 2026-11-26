@@ -1,34 +1,37 @@
-BẢN TIN VÀNG tối 26/11 (24h tới, đến 18:45 27/11) – RỦI RO 4/5 – NÊN TẮT BOT CẢ 24H TỚI (đến 18:45 27/11)
+BẢN TIN VÀNG sáng 27/11 (24h tới, đến 06:45 28/11) – RỦI RO 4/5 – NÊN TẮT BOT CẢ 24H TỚI (đến 06:45 28/11)
 
-Biên độ hôm qua (phiên 25/11): ~3,2–4% (~115–145$, đáy 3.446, đóng ~3.577–3.581) → 24h tới nguy hiểm ~26% – THỊ TRƯỜNG LOẠN: (1) 25/11 biên độ ≥3%; (2) 23/11, 24/11, 25/11 đều ≥2,5%.
+Biên độ hôm qua (phiên 26/11, Tạ ơn): ~1,5% (~53$, khoảng 3.550–3.603) → 24h tới nguy hiểm ~7–9% – THỊ TRƯỜNG LOẠN: (2) có 3 ngày biên độ ≥2,5% trong 5 phiên gần nhất (23/11, 24/11, 25/11; riêng 25/11 >3%).
 
 Giá vàng & xu hướng:
-Hôm nay 26/11 (Mỹ nghỉ Tạ ơn) vàng đi hẹp hơn: 3.561–3.603 (~42$, ~1,2%) tính tới khoảng 14:45 26/11, giá gần nhất ~3.565. Chạm 3.600 rồi bị đẩy lại. D1 vẫn giảm mạnh (đáy 15 tháng 3.446 hôm qua), H4 hồi chữ V nhưng đang chững dưới 3.600 trong kênh giảm.
+Phiên 26/11 thanh khoản lễ mỏng, vàng chạm ~3.603 rồi trượt về ~3.550 (FXStreet 06:37 27/11), đóng ngày ~3.565 (−0,6%). 24h qua chưa có nhịp một chiều ≥60$ (lớn nhất ~50$). D1 vẫn giảm mạnh (đáy 15 tháng 3.446 ngày 25/11), H4 hồi lên 3.600 thất bại, đang nghiêng xuống lại.
 
 CẢN & HỖ TRỢ
-Kháng cự 2: 3.651 (+~85$) – đỉnh vùng range; phá lên → 3.675–3.697 (~30–45$ nữa)
-Kháng cự 1: 3.595–3.603 (+~35$) – đỉnh hôm nay, giữa kênh giảm; phá lên → 3.651, tổng ~85$ một mạch, rổ SELL có thể xuống tầng 10
-Giá hiện tại: ~3.565
-Hỗ trợ 1: 3.500–3.504 (−~60$) – số tròn; chỉ cần rơi tới đây đã ~60$ một mạch, rổ BUY xuống tầng 10
-Hỗ trợ 2: 3.446 (−~120$) – đáy 15 tháng; thủng → 3.417, xa hơn 3.400/3.331
-Kịch bản nguy hiểm nhất cho bot: thanh khoản lễ mỏng, hồi thất bại dưới 3.600 → rơi lại 3.500 (~65$ một chiều, đúng ngưỡng cháy). Hoặc tin Hormuz/Houthi–Ả Rập Xê Út bất ngờ đẩy vàng vọt qua 3.600–3.651.
+Kháng cự 2: 3.651 (+~100$) – đỉnh vùng range; phá lên → 3.697 (~45$ nữa)
+Kháng cự 1: 3.600–3.603 (+~50$) – đỉnh 26/11, số tròn; phá lên → 3.651, tổng ~100$ một mạch, rổ SELL có thể xuống tầng 10
+Giá hiện tại: ~3.550
+Hỗ trợ 1: 3.500 (−~50$) – số tròn, đã thủng 25/11; thủng → 3.446 (~105$ một mạch từ giá hiện tại), rổ BUY có thể xuống tầng 10
+Hỗ trợ 2: 3.446 (−~105$) – đáy 15 tháng; thủng → 3.415 (IG gọi là hỗ trợ then chốt), xa hơn 3.330–3.340 (Natixis cảnh báo 3.340)
+Kịch bản nguy hiểm nhất cho bot: phiên châu Á/Âu 27/11 tiếp tục trượt từ 3.550 thủng 3.500 lần nữa trong thanh khoản mỏng → rơi thẳng về 3.446 (~100$ một chiều, vượt xa ngưỡng 58$). Chiều ngược lại: tin Hormuz/Houthi bất ngờ đẩy giá vọt qua 3.603 lên 3.651.
 
 LỊCH 24H TỚI
-Cả đêm 26/11 – Mỹ nghỉ Tạ ơn, CME giờ lễ, thanh khoản rất mỏng – ⚠️ bot không né
-06:30 27/11 – CPI Tokyo; 16:55 27/11 – thất nghiệp Đức – ⚠️ bot không né (ảnh hưởng nhỏ)
-Cả ngày 27/11 – Mỹ nửa phiên (chứng khoán đóng 01:00 28/11 giờ VN), thanh khoản mỏng – ⚠️ bot không né
-Xa hơn: đóng phiên cuối tuần ~04:57 28/11 (bot tự khóa; cần kiểm tra Exness có đóng XAUUSDc sớm hơn do lễ không); OPEC+ họp 29/11; 30/11 cuối tháng, giao hàng HĐ tháng 12; NFP 20:30 04/12; FOMC 09/12 (thị trường đã định giá đủ tăng lãi suất).
+06:30 27/11 – CPI Tokyo – ⚠️ bot không né (ảnh hưởng nhỏ)
+16:55 27/11 – thất nghiệp Đức – ⚠️ bot không né (ảnh hưởng nhỏ)
+Cả ngày 27/11 – Mỹ nửa phiên Black Friday, thanh khoản mỏng; kim loại CME đóng sớm (khoảng 01:45 28/11 giờ VN, cần kiểm tra giờ Exness với XAUUSDc) – ⚠️ bot không né
+~04:57 28/11 – đóng phiên cuối tuần – bot tự khóa
+Xa hơn: OPEC+ họp 29/11; 30/11 cuối tháng; NFP 20:30 04/12; FOMC 09/12 (thị trường định giá chắc chắn tăng 25bp).
 
 Địa chính trị (24h qua):
-Houthi bắn tên lửa/drone vào Riyadh, Jeddah; Ả Rập Xê Út nói đã bắn hạ. Iran tiếp tục tuyên bố tàu trúng mìn ở Hormuz. Brent ~94,6–94,7$ (+3,5%), WTI ~83,7$. Đàm phán Mỹ–Iran nhích chậm, chưa có hạn chót; Trump để "mọi lựa chọn trên bàn". Mỹ đề xuất thuế Mục 301 với 14 nền kinh tế, chưa hiệu lực (góp ý tới 05/01/2027). DXY ~103,7; lợi suất 10 năm ~4,85%, 30 năm chưa có dữ liệu. Trung Quốc: chưa có tin mới.
+Ả Rập Xê Út tiếp tục đánh chặn loạt tên lửa/drone trả đũa của Houthi (26/11). Iran vẫn tuyên bố tàu trúng mìn ở Hormuz, Brent ~96$ (+1,7%), WTI ~84,8$. Trump nói muốn thỏa thuận "lâu dài" với Iran, không vội, chưa có hạn chót; có tin Mỹ–Israel cân nhắc đợt tấn công mới. Mỹ đề xuất thuế mới 20% với hàng Trung Quốc và nhiều đối tác (chưa hiệu lực). DXY ~103,8; lợi suất 10 năm ~4,86%; 30 năm chưa có dữ liệu. Trung Quốc: chưa có tin mới.
 
 Lý do chấm điểm:
-Vẫn thỏa điều kiện loạn (25/11 >3%, 3 phiên liền ≥2,5%). Hôm nay dịu hơn (~42$) nên hạ từ 5 xuống 4; giá chỉ cách 3.500 ~60$, thanh khoản lễ mỏng.
-Chạy lại khi: có 1 ngày biên độ <1,5% và giá đi ngang giữ trên 3.550; xem lại bản tin 06:45 27/11.
+Vẫn thỏa điều kiện loạn (3 phiên ≥2,5% trong 5 phiên). Phiên 26/11 dịu hơn (~1,5%) nhưng giá đang sát 3.500, xu hướng D1 giảm, thanh khoản Black Friday mỏng dễ trượt giá một mạch → giữ 4/5.
+Chạy lại khi: có 1 ngày biên độ <1,5% và giá đi ngang giữ trên 3.550 (hoặc trên 3.500 ổn định); xem lại trước giờ mở phiên thứ Hai 30/11.
 
 Nguồn:
-https://financefeeds.com/gold-price-today-3565-thursday-holiday-bounce-from-15-month-low-bull-3697-bear-3446/
-https://ancstockinvestments.com/blog/2026/11/26/gold-steadies-after-dip-below-3500/
-https://www.newarab.com/news/iran-tightens-grip-over-hormuz-diplomacy-inches-forward
+https://www.fxstreet.com/news/gold-declines-to-near-3-550-amid-hawkish-fed-expectations-202611262337
+https://mining.com.au/gold-price-drifts-lower-in-thin-us-thanksgiving-trading
+https://ig.com/en-ch/news-and-trade-ideas/gold-price-forecast-rates-3415-support-261126
+https://tradingeconomics.com/commodity/gold
+https://www.thenationalnews.com/news/gulf/2026/11/26/saudi-arabia-intercepts-wave-of-retaliatory-houthi-attacks/
 
 Chỉ đánh giá rủi ro cho bot lưới, không phải khuyến nghị mua/bán.
