@@ -1,9 +1,37 @@
-🚨 TIN KHẨN 14:25 27/11 – Vàng vọt ~100$ một chiều phiên châu Á
-- Từ ~09:20 VN, vàng tăng dựng đứng (có lúc +40$ trong 20 phút), bạc +7–8%, dầu cùng tăng. Thanh khoản mỏng sau lễ Tạ ơn; chưa có tin đơn lẻ nào được xác nhận là nguyên nhân (mua bắt đáy sau đáy 15 tháng, USD yếu).
-- Vàng từ ~3.550–3.565 (sáng nay) lên ~3.650–3.665 (COMEX 3.662 lúc 11:41 VN), tức ~+90–100$ một chiều, đã phá cả 3.603 và 3.651.
-- Bot lưới: rổ SELL rất nguy hiểm (vượt xa ngưỡng 58$). Giữ bot TẮT, không mở rổ mới đến hết phiên tuần (đóng ~04:57 28/11); xem lại trước mở phiên thứ Hai 30/11. Thanh khoản Black Friday mỏng, có thể giật ngược mạnh.
-- Nguồn:
-https://cryptoticker.io/en/crypto-news-gold-jumps-2-7-percent-3662/
-https://www.chaincatcher.com/en/article/2308435
-https://www.fxstreet.com/news/gold-extends-recovery-above-3-600-on-weaker-usd-fed-bets-warrant-caution-for-bulls-202611270432
+BẢN TIN VÀNG tối 27/11 (24h tới, đến 18:45 28/11) – RỦI RO 4/5 – NÊN TẮT BOT CẢ 24H TỚI (đến hết phiên tuần ~04:57 28/11, sau đó thị trường nghỉ đến 18:45 28/11)
+
+Biên độ hôm qua (26/11): ~1,5% (~53$) → 24h tới nguy hiểm ~7–9%. Riêng phiên 27/11 (chưa đóng) đã chạy ~3.550 → ~3.675 (~125$, ~3,5%). – THỊ TRƯỜNG LOẠN: (4) 24h qua có nhịp tăng một chiều ~100–125$ không hồi; (2) 23/11, 24/11, 25/11 đều ≥2,5% trong 5 phiên gần nhất.
+
+Giá vàng & xu hướng 24h qua:
+Từ ~09:20 27/11 vàng vọt dựng đứng từ ~3.550, spot ~3.640 lúc 13:09, ~3.675 lúc 15:31 (+~3%); COMEX tháng 2 lên ~3.708 lúc 16:11. Bạc +7–10%. Lý do: bán tháo ký quỹ dừng, USD yếu, thanh khoản lễ mỏng. D1 vẫn là xu hướng giảm (đáy 15 tháng ~3.425–3.446 ngày 25/11), H4 đảo chiều tăng mạnh. Chưa có giá lúc 18:45.
+
+CẢN & HỖ TRỢ
+Kháng cự 2: 3.750 (+~75$) – phá lên → 3.800 (~125$ một mạch từ giá hiện tại), rổ SELL quá tầng 10
+Kháng cự 1: 3.700 (+~25$) – số tròn; phá lên → 3.750, rổ SELL có thể xuống tầng 10
+Giá hiện tại: ~3.675 (spot 15:31 27/11)
+Hỗ trợ 1: 3.650 (−~25$) – đỉnh cũ vừa phá; thủng → 3.600 (~75$ một mạch), rổ BUY có thể xuống tầng 10
+Hỗ trợ 2: 3.600 (−~75$) – số tròn; thủng → 3.550 (đáy sáng 27/11), tổng ~125$
+Hỗ trợ 3: 3.500 (−~175$) – sàn quan trọng; thủng → 3.425–3.446 (đáy 15 tháng)
+Kịch bản nguy hiểm nhất cho bot: phiên Mỹ Black Friday thanh khoản mỏng, giá giật ngược sau cú tăng 125$ → xả về 3.600 (~75$ một chiều, rổ BUY cháy); hoặc tiếp tục vọt qua 3.700 lên 3.750 (rổ SELL cháy). Cả hai chiều đều vượt ngưỡng 58$.
+
+LỊCH 24H TỚI
+Tối 27/11 – Mỹ nửa phiên Black Friday, không có dữ liệu/Fed – ⚠️ bot không né (thanh khoản mỏng)
+01:00 28/11 – chứng khoán Mỹ đóng sớm – ⚠️ bot không né
+~02:45 28/11 – COMEX vàng đóng sớm (theo ANC, chưa xác minh với CME) – ⚠️ bot không né; sau giờ này thanh khoản rất mỏng, dễ giật
+~04:57 28/11 – đóng phiên cuối tuần – bot tự khóa
+Xa hơn: OPEC+ họp 29/11; 30/11 chốt tháng, Thống đốc BoJ Ueda phát biểu; NFP 20:30 04/12; FOMC 02:00 10/12 (thị trường định giá ~90%+ tăng 25bp).
+
+Địa chính trị (24h qua):
+Houthi tiếp tục bắn tên lửa/drone vào Ả Rập Xê Út, một nhà máy lọc dầu ở Jazan bị trúng, tạm dừng một phần (26/11). Drone Iran tấn công Kuwait, EU kêu gọi tăng sức ép lên Iran. IRGC tiếp tục báo tàu trúng mìn ở Hormuz. Trump nói muốn thỏa thuận "lâu dài" với Iran, chưa có hạn chót. Mỹ có kế hoạch thuế mới với Trung Quốc và châu Âu. Brent ~96–97$, WTI ~85,5$. Lợi suất 10 năm ~4,92%, 30 năm ~5,31%. DXY ~103,7.
+
+Lý do chấm điểm:
+Thỏa 2 điều kiện loạn: nhịp tăng một chiều ~100–125$ trong 24h qua, cộng 3 phiên ≥2,5% trong tuần. Còn ~10 tiếng giao dịch thanh khoản rất mỏng ngay sau cú tăng thẳng đứng, dễ giật mạnh cả hai chiều → 4/5.
+Chạy lại khi: có 1 ngày biên độ <1,5% và giá đi ngang ổn định trên 3.600; xem lại trước khi mở phiên thứ Hai 30/11, không mở rổ ngay đầu phiên vì có thể gap.
+
+Nguồn:
+https://www.mitrade.com/au/insights/commodity-analysis/gold-price/gold-price-nears-3700
+https://ancstockinvestments.com/blog/2026/11/27/gold-heads-for-weekly-gain-after-one-year-low/
+https://premarketdaily.com/2026/11/27/nvidia-and-gold-surge-together-as-black-friday-cuts-the-session-short/
+https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/
+
 Chỉ đánh giá rủi ro cho bot lưới, không phải khuyến nghị mua/bán.
