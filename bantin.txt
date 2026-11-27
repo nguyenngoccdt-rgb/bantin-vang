@@ -1,37 +1,34 @@
-BẢN TIN VÀNG tối 27/11 (24h tới, đến 18:45 28/11) – RỦI RO 4/5 – NÊN TẮT BOT CẢ 24H TỚI (đến hết phiên tuần ~04:57 28/11, sau đó thị trường nghỉ đến 18:45 28/11)
+BẢN TIN VÀNG sáng 28/11 (24h tới, đến 06:45 29/11) – RỦI RO 4/5 – NÊN TẮT BOT CẢ 24H TỚI (đến 06:45 29/11; thị trường nghỉ cuối tuần, giữ tắt khi mở phiên thứ Hai 30/11)
 
-Biên độ hôm qua (26/11): ~1,5% (~53$) → 24h tới nguy hiểm ~7–9%. Riêng phiên 27/11 (chưa đóng) đã chạy ~3.550 → ~3.675 (~125$, ~3,5%). – THỊ TRƯỜNG LOẠN: (4) 24h qua có nhịp tăng một chiều ~100–125$ không hồi; (2) 23/11, 24/11, 25/11 đều ≥2,5% trong 5 phiên gần nhất.
+Biên độ hôm qua (27/11): ~3,4% (~125$, đáy ~3.550, đỉnh ~3.675–3.680) → ngày giao dịch kế tiếp nguy hiểm ~26% – THỊ TRƯỜNG LOẠN: (1) biên độ ngày gần nhất ≥3%; (2) 3 phiên 23–25/11 đều ≥2,5%; (4) 24h qua có nhịp tăng một chiều ~125$.
 
-Giá vàng & xu hướng 24h qua:
-Từ ~09:20 27/11 vàng vọt dựng đứng từ ~3.550, spot ~3.640 lúc 13:09, ~3.675 lúc 15:31 (+~3%); COMEX tháng 2 lên ~3.708 lúc 16:11. Bạc +7–10%. Lý do: bán tháo ký quỹ dừng, USD yếu, thanh khoản lễ mỏng. D1 vẫn là xu hướng giảm (đáy 15 tháng ~3.425–3.446 ngày 25/11), H4 đảo chiều tăng mạnh. Chưa có giá lúc 18:45.
+Giá vàng & xu hướng:
+Vàng đóng tuần 27/11 ở ~3.653,5 (+2,43% trong ngày, +3,25% cả tuần), hồi mạnh từ đáy 15 tháng ~3.427–3.446 (25/11). COMEX tháng 2 ~3.681. D1 vẫn xu hướng giảm (RSI ~33), H4 đảo chiều tăng. Thị trường đóng cửa từ ~04:57 28/11, mở lại khoảng sáng 30/11 giờ VN.
 
 CẢN & HỖ TRỢ
-Kháng cự 2: 3.750 (+~75$) – phá lên → 3.800 (~125$ một mạch từ giá hiện tại), rổ SELL quá tầng 10
-Kháng cự 1: 3.700 (+~25$) – số tròn; phá lên → 3.750, rổ SELL có thể xuống tầng 10
-Giá hiện tại: ~3.675 (spot 15:31 27/11)
-Hỗ trợ 1: 3.650 (−~25$) – đỉnh cũ vừa phá; thủng → 3.600 (~75$ một mạch), rổ BUY có thể xuống tầng 10
-Hỗ trợ 2: 3.600 (−~75$) – số tròn; thủng → 3.550 (đáy sáng 27/11), tổng ~125$
-Hỗ trợ 3: 3.500 (−~175$) – sàn quan trọng; thủng → 3.425–3.446 (đáy 15 tháng)
-Kịch bản nguy hiểm nhất cho bot: phiên Mỹ Black Friday thanh khoản mỏng, giá giật ngược sau cú tăng 125$ → xả về 3.600 (~75$ một chiều, rổ BUY cháy); hoặc tiếp tục vọt qua 3.700 lên 3.750 (rổ SELL cháy). Cả hai chiều đều vượt ngưỡng 58$.
+Kháng cự 2: 3.742 (+~89$) – đỉnh đóng cửa 18/11; phá lên → 3.800 (~150$ từ giá đóng), rổ SELL quá tầng 10
+Kháng cự 1: 3.690–3.700 (+~40$) – mục tiêu mô hình nêm của StoneX, số tròn; phá lên → 3.742 (~90$ một mạch), rổ SELL có thể cháy
+Giá hiện tại: ~3.653 (đóng cửa 27/11)
+Hỗ trợ 1: 3.606 (−~47$) – điểm phá nêm giảm; thủng → 3.567–3.550 (~100$ một mạch), rổ BUY có thể xuống tầng 10
+Hỗ trợ 2: 3.550–3.567 (−~90$) – đáy sáng 27/11, giá đóng 26/11; thủng → 3.500
+Hỗ trợ 3: 3.427–3.446 (−~215$) – đáy 15 tháng; thủng → chưa có mốc rõ
+Kịch bản nguy hiểm nhất cho bot: tin cuối tuần (Iran/Hormuz, OPEC+) làm giá mở GAP sáng 30/11, rồi chạy tiếp một chiều 60$+ trong phiên châu Á thanh khoản mỏng; hoặc chốt lời sau cú tăng 125$ kéo giá thủng 3.606 về 3.550 (rổ BUY cháy).
 
 LỊCH 24H TỚI
-Tối 27/11 – Mỹ nửa phiên Black Friday, không có dữ liệu/Fed – ⚠️ bot không né (thanh khoản mỏng)
-01:00 28/11 – chứng khoán Mỹ đóng sớm – ⚠️ bot không né
-~02:45 28/11 – COMEX vàng đóng sớm (theo ANC, chưa xác minh với CME) – ⚠️ bot không né; sau giờ này thanh khoản rất mỏng, dễ giật
-~04:57 28/11 – đóng phiên cuối tuần – bot tự khóa
-Xa hơn: OPEC+ họp 29/11; 30/11 chốt tháng, Thống đốc BoJ Ueda phát biểu; NFP 20:30 04/12; FOMC 02:00 10/12 (thị trường định giá ~90%+ tăng 25bp).
+06:45 28/11 → 06:45 29/11 – thị trường vàng đóng cửa cuối tuần, không giao dịch
+29/11 – OPEC+ họp (chưa xác minh giờ) – ⚠️ bot không né, ảnh hưởng tới giá mở cửa
+Xa hơn: sáng 30/11 mở phiên tuần mới (nguy cơ gap) – ⚠️ bot không né; 30/11 chốt tháng 11, Chicago PMI; 01/12 ISM sản xuất Mỹ; NFP 20:30 04/12; FOMC 02:00 10/12 (thị trường định giá ~99% tăng 25bp).
 
 Địa chính trị (24h qua):
-Houthi tiếp tục bắn tên lửa/drone vào Ả Rập Xê Út, một nhà máy lọc dầu ở Jazan bị trúng, tạm dừng một phần (26/11). Drone Iran tấn công Kuwait, EU kêu gọi tăng sức ép lên Iran. IRGC tiếp tục báo tàu trúng mìn ở Hormuz. Trump nói muốn thỏa thuận "lâu dài" với Iran, chưa có hạn chót. Mỹ có kế hoạch thuế mới với Trung Quốc và châu Âu. Brent ~96–97$, WTI ~85,5$. Lợi suất 10 năm ~4,92%, 30 năm ~5,31%. DXY ~103,7.
+Chưa có diễn biến mới đáng kể tìm được trong 24h qua. Nền vẫn căng: Iran ra yêu sách mới, chưa mở lại Hormuz; Houthi tấn công Ả Rập Xê Út; Mỹ chuẩn bị thuế mới với Trung Quốc, châu Âu. Lợi suất 10 năm ~4,92%, DXY ~103,7 (sáng 27/11).
 
 Lý do chấm điểm:
-Thỏa 2 điều kiện loạn: nhịp tăng một chiều ~100–125$ trong 24h qua, cộng 3 phiên ≥2,5% trong tuần. Còn ~10 tiếng giao dịch thanh khoản rất mỏng ngay sau cú tăng thẳng đứng, dễ giật mạnh cả hai chiều → 4/5.
-Chạy lại khi: có 1 ngày biên độ <1,5% và giá đi ngang ổn định trên 3.600; xem lại trước khi mở phiên thứ Hai 30/11, không mở rổ ngay đầu phiên vì có thể gap.
+Thỏa 3 điều kiện loạn, biên độ 27/11 ~3,4% → ngày sau nguy hiểm ~26%. Trong 24h tới thị trường nghỉ nên không có rủi ro trực tiếp, nhưng rủi ro dồn vào lúc mở cửa 30/11 (gap + chốt tháng).
+Chạy lại khi: có 1 ngày biên độ <1,5% và giá đi ngang ổn định trên 3.606; ít nhất không mở rổ trong vài giờ đầu phiên 30/11, chờ bản tin 06:45 30/11.
 
 Nguồn:
-https://www.mitrade.com/au/insights/commodity-analysis/gold-price/gold-price-nears-3700
-https://ancstockinvestments.com/blog/2026/11/27/gold-heads-for-weekly-gain-after-one-year-low/
-https://premarketdaily.com/2026/11/27/nvidia-and-gold-surge-together-as-black-friday-cuts-the-session-short/
-https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/
+https://longbridge.com/en/news/307064405
+https://financefeeds.com/gold-price-today-3650-friday-rebound-from-15-month-low-silver-up-6-percent-bull-3742-bear-3567/
+https://goldstockcanada.com/news/post-market-summary-for-precious-metals-november-27-2026-3452
 
 Chỉ đánh giá rủi ro cho bot lưới, không phải khuyến nghị mua/bán.
