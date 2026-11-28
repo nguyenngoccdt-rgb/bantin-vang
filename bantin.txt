@@ -1,34 +1,36 @@
-BẢN TIN VÀNG sáng 28/11 (24h tới, đến 06:45 29/11) – RỦI RO 4/5 – NÊN TẮT BOT CẢ 24H TỚI (đến 06:45 29/11; thị trường nghỉ cuối tuần, giữ tắt khi mở phiên thứ Hai 30/11)
+BẢN TIN VÀNG tối 28/11 (24h tới, đến 18:45 29/11) – RỦI RO 4/5 – NÊN TẮT BOT CẢ 24H TỚI (đến 18:45 29/11; giữ tắt khi mở phiên khoảng 06:00 30/11)
 
-Biên độ hôm qua (27/11): ~3,4% (~125$, đáy ~3.550, đỉnh ~3.675–3.680) → ngày giao dịch kế tiếp nguy hiểm ~26% – THỊ TRƯỜNG LOẠN: (1) biên độ ngày gần nhất ≥3%; (2) 3 phiên 23–25/11 đều ≥2,5%; (4) 24h qua có nhịp tăng một chiều ~125$.
+Biên độ hôm qua (27/11): 3,2% (~116$, 3.569,6–3.686,0) → ngày giao dịch kế tiếp nguy hiểm ~26% – THỊ TRƯỜNG LOẠN: (1) biên độ ngày gần nhất ≥3%; (2) 23–25/11 đều ≥2,5%; (4) 27/11 có nhịp tăng một chiều ~116$.
 
 Giá vàng & xu hướng:
-Vàng đóng tuần 27/11 ở ~3.653,5 (+2,43% trong ngày, +3,25% cả tuần), hồi mạnh từ đáy 15 tháng ~3.427–3.446 (25/11). COMEX tháng 2 ~3.681. D1 vẫn xu hướng giảm (RSI ~33), H4 đảo chiều tăng. Thị trường đóng cửa từ ~04:57 28/11, mở lại khoảng sáng 30/11 giờ VN.
+Vàng đóng tuần ~3.653 (+87,5$, +2,45% ngày 27/11), hồi mạnh từ đáy 14–15 tháng ~3.430 đầu tuần. Thị trường đang nghỉ cuối tuần, không có giá mới. D1 vẫn giảm, H4 đảo chiều tăng. Lợi suất 10 năm ~4,93%, USD mạnh lên.
 
 CẢN & HỖ TRỢ
-Kháng cự 2: 3.742 (+~89$) – đỉnh đóng cửa 18/11; phá lên → 3.800 (~150$ từ giá đóng), rổ SELL quá tầng 10
-Kháng cự 1: 3.690–3.700 (+~40$) – mục tiêu mô hình nêm của StoneX, số tròn; phá lên → 3.742 (~90$ một mạch), rổ SELL có thể cháy
+Kháng cự 3: 3.742 (+89$) – đỉnh đóng cửa 18/11; phá lên → 3.780–3.800 (~130–150$), rổ SELL quá tầng 10
+Kháng cự 2: 3.697–3.700 (+45$) – cản Kitco, số tròn; phá lên → 3.742 (~45$ thêm), rổ SELL nguy hiểm
+Kháng cự 1: 3.686 (+33$) – đỉnh 27/11
 Giá hiện tại: ~3.653 (đóng cửa 27/11)
-Hỗ trợ 1: 3.606 (−~47$) – điểm phá nêm giảm; thủng → 3.567–3.550 (~100$ một mạch), rổ BUY có thể xuống tầng 10
-Hỗ trợ 2: 3.550–3.567 (−~90$) – đáy sáng 27/11, giá đóng 26/11; thủng → 3.500
-Hỗ trợ 3: 3.427–3.446 (−~215$) – đáy 15 tháng; thủng → chưa có mốc rõ
-Kịch bản nguy hiểm nhất cho bot: tin cuối tuần (Iran/Hormuz, OPEC+) làm giá mở GAP sáng 30/11, rồi chạy tiếp một chiều 60$+ trong phiên châu Á thanh khoản mỏng; hoặc chốt lời sau cú tăng 125$ kéo giá thủng 3.606 về 3.550 (rổ BUY cháy).
+Hỗ trợ 1: 3.595–3.606 (−50$) – hỗ trợ Kitco, điểm phá nêm giảm; thủng → 3.570–3.550 (~40–55$ thêm, tổng ~100$ một mạch), rổ BUY có thể xuống tầng 10
+Hỗ trợ 2: 3.550–3.570 (−85$) – đáy 27/11; thủng → 3.503–3.520
+Hỗ trợ 3: 3.503–3.520 (−140$) – hỗ trợ Kitco; thủng → đáy 15 tháng ~3.430
+Kịch bản nguy hiểm nhất cho bot: tin cuối tuần (Hormuz, OPEC+ 29/11) làm giá mở GAP sáng 30/11 rồi chạy tiếp 60$+ trong phiên châu Á thanh khoản mỏng; hoặc chốt lời sau cú tăng 116$ kéo giá thủng 3.595 về 3.550 (rổ BUY cháy).
 
 LỊCH 24H TỚI
-06:45 28/11 → 06:45 29/11 – thị trường vàng đóng cửa cuối tuần, không giao dịch
-29/11 – OPEC+ họp (chưa xác minh giờ) – ⚠️ bot không né, ảnh hưởng tới giá mở cửa
-Xa hơn: sáng 30/11 mở phiên tuần mới (nguy cơ gap) – ⚠️ bot không né; 30/11 chốt tháng 11, Chicago PMI; 01/12 ISM sản xuất Mỹ; NFP 20:30 04/12; FOMC 02:00 10/12 (thị trường định giá ~99% tăng 25bp).
+18:45 28/11 → 18:45 29/11 – thị trường vàng đóng cửa cuối tuần
+29/11 – OPEC+ họp về hạn ngạch 2027 (chưa có giờ cụ thể) – ⚠️ bot không né, ảnh hưởng giá mở cửa
+Xa hơn: khoảng 06:00 30/11 mở phiên tuần mới (nguy cơ gap) – ⚠️ bot không né; 21:45 30/11 Chicago PMI – ⚠️ bot không né; 22:00 01/12 ISM sản xuất Mỹ – ⚠️ bot không né; NFP 20:30 04/12 – bot tự né; FOMC 9/12 (thị trường nghiêng về TĂNG 25bp).
 
-Địa chính trị (24h qua):
-Chưa có diễn biến mới đáng kể tìm được trong 24h qua. Nền vẫn căng: Iran ra yêu sách mới, chưa mở lại Hormuz; Houthi tấn công Ả Rập Xê Út; Mỹ chuẩn bị thuế mới với Trung Quốc, châu Âu. Lợi suất 10 năm ~4,92%, DXY ~103,7 (sáng 27/11).
+Điểm nóng địa chính trị (24h qua):
+– 27/11: máy bay Mỹ bắn hỏng tàu Pacific Archer rời Bandar Abbas ở vịnh Oman; Iran (Mokhber) tuyên bố Hormuz sẽ không mở lại trong điều kiện bị phong tỏa.
+– IRGC nói tàu chở dầu trúng thủy lôi khi đi qua Hormuz; JMIC xếp mối đe dọa Hormuz mức NGHIÊM TRỌNG (17 tàu bị tấn công từ 01/11).
+– Nhà máy lọc dầu Jazan (Ả Rập Xê Út) bị tấn công. Chưa có lịch đàm phán hay hạn chót Iran nào.
 
-Lý do chấm điểm:
-Thỏa 3 điều kiện loạn, biên độ 27/11 ~3,4% → ngày sau nguy hiểm ~26%. Trong 24h tới thị trường nghỉ nên không có rủi ro trực tiếp, nhưng rủi ro dồn vào lúc mở cửa 30/11 (gap + chốt tháng).
-Chạy lại khi: có 1 ngày biên độ <1,5% và giá đi ngang ổn định trên 3.606; ít nhất không mở rổ trong vài giờ đầu phiên 30/11, chờ bản tin 06:45 30/11.
+Lý do chấm điểm: thị trường đang loạn (biên độ 27/11 3,2%, 4/5 phiên gần nhất ≥2,5%), chiến sự Hormuz leo thang trong lúc nghỉ cuối tuần, OPEC+ họp Chủ nhật → rủi ro gap và chạy một mạch đầu tuần cao. 24h tới không có giao dịch nên tắt bot không mất gì.
+Điều kiện chạy lại: có ít nhất 1 ngày biên độ <1,5%, giá đi ngang giữ trên 3.595 (hoặc tích lũy rõ ràng), không có leo thang mới ở Hormuz.
 
 Nguồn:
-https://longbridge.com/en/news/307064405
-https://financefeeds.com/gold-price-today-3650-friday-rebound-from-15-month-low-silver-up-6-percent-bull-3742-bear-3567/
-https://goldstockcanada.com/news/post-market-summary-for-precious-metals-november-27-2026-3452
+https://www.kitco.com/news/article/2026-11-27/gold-climbs-above-3650-silver-surges-wall-street-rebounds-sharply-kitco-pm
+https://ianjvv2.substack.com/p/the-iran-saga-update-28-november
+https://www.jpost.com/middle-east/iran-news/article-916328
 
 Chỉ đánh giá rủi ro cho bot lưới, không phải khuyến nghị mua/bán.
